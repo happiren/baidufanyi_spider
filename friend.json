@@ -1,0 +1,1117 @@
+{
+    "trans_result": {
+        "from": "en",
+        "to": "zh",
+        "domain": "all",
+        "type": 2,
+        "status": 0,
+        "data": [
+            {
+                "dst": "朋友",
+                "prefixWrap": 0,
+                "src": "friend",
+                "relation": [],
+                "result": [
+                    [
+                        0,
+                        "朋友",
+                        [
+                            "0|6"
+                        ],
+                        [],
+                        [
+                            "0|6"
+                        ],
+                        [
+                            "0|6"
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "phonetic": [
+            {
+                "src_str": "朋",
+                "trg_str": "péng"
+            },
+            {
+                "src_str": "友",
+                "trg_str": "you"
+            }
+        ]
+    },
+    "dict_result": {
+        "edict": {
+            "item": [
+                {
+                    "tr_group": [
+                        {
+                            "tr": [
+                                "a person with whom you are acquainted"
+                            ],
+                            "example": [
+                                "I have trouble remembering the names of all my acquaintances",
+                                "we are friends of the family"
+                            ],
+                            "similar_word": [
+                                "acquaintance"
+                            ]
+                        },
+                        {
+                            "tr": [
+                                "an associate who provides cooperation or assistance"
+                            ],
+                            "example": [
+                                "he's a good ally in fight"
+                            ],
+                            "similar_word": [
+                                "ally"
+                            ]
+                        },
+                        {
+                            "tr": [
+                                "a person you know well and regard with affection and trust"
+                            ],
+                            "example": [
+                                "he was my best friend at the university"
+                            ],
+                            "similar_word": []
+                        },
+                        {
+                            "tr": [
+                                "a person who backs a politician or a team etc."
+                            ],
+                            "example": [
+                                "all their supporters came out for the game",
+                                "they are friends of the library"
+                            ],
+                            "similar_word": [
+                                "supporter",
+                                "protagonist",
+                                "champion",
+                                "admirer",
+                                "booster"
+                            ]
+                        }
+                    ],
+                    "pos": "noun"
+                }
+            ],
+            "word": "friend"
+        },
+        "collins": {
+            "entry": [
+                {
+                    "type": "mean",
+                    "entry_id": "29424",
+                    "value": [
+                        {
+                            "mean_type": [
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38727",
+                                    "example": [
+                                        {
+                                            "example_id": "37098",
+                                            "tts_size": "14.0",
+                                            "tran": "我和我最好的朋友就此事进行了长谈。",
+                                            "ex": "I had a long talk about this with my best friend...",
+                                            "tts_mp3": "2/9/d/29d907bf3e6c93d7d8100b80d102da6c.mp3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38728",
+                                    "example": [
+                                        {
+                                            "example_id": "37099",
+                                            "tts_size": "11.0",
+                                            "tran": "她从来就不是我的密友。",
+                                            "ex": "She never was a close friend of mine.",
+                                            "tts_mp3": "9/a/d/9adc1cc38a29ac4580689e93a9a95bf3.mp3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38729",
+                                    "example": [
+                                        {
+                                            "example_id": "37100",
+                                            "tts_size": "10.0",
+                                            "tran": "萨拉的老朋友奥格登",
+                                            "ex": "...Sara's old friend, Ogden.",
+                                            "tts_mp3": "4/b/a/4ba7409b0eb049fad23fd8440748bb01.mp3"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "gramarinfo": [],
+                            "tran": "朋友;友人",
+                            "def": "A <b>friend</b> is someone who you know well and like, but who is not related to you.",
+                            "mean_id": "28144",
+                            "posp": [
+                                {
+                                    "label": "N-COUNT"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "mean",
+                    "entry_id": "29425",
+                    "value": [
+                        {
+                            "mean_type": [
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38730",
+                                    "example": [
+                                        {
+                                            "example_id": "37101",
+                                            "tts_size": "12.0",
+                                            "tran": "我还是想和艾莉森做朋友。",
+                                            "ex": "I still wanted to be friends with Alison...",
+                                            "tts_mp3": "4/b/2/4b2bef05c8ef91d8c201ecaee5d13a44.mp3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38731",
+                                    "example": [
+                                        {
+                                            "example_id": "37102",
+                                            "tts_size": "8.0",
+                                            "tran": "我们一直是好朋友。",
+                                            "ex": "We remained good friends...",
+                                            "tts_mp3": "9/6/f/96fbb0c0557e563993bbdb8c2063715f.mp3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38732",
+                                    "example": [
+                                        {
+                                            "example_id": "37103",
+                                            "tts_size": "10.0",
+                                            "tran": "萨莉和我成了朋友。",
+                                            "ex": "Sally and I became friends.",
+                                            "tts_mp3": "2/6/d/26d24634dbc8b270242de2cdc1e25577.mp3"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "gramarinfo": [
+                                {
+                                    "tran": "",
+                                    "type": "hdgr",
+                                    "label": "oft N <l>with</l> n"
+                                }
+                            ],
+                            "tran": "(与…互为)朋友",
+                            "def": "If you are <b>friends</b> <b>with</b> someone, you are their friend and they are yours.",
+                            "mean_id": "28145",
+                            "posp": [
+                                {
+                                    "label": "N-PLURAL"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "mean",
+                    "entry_id": "29426",
+                    "value": [
+                        {
+                            "mean_type": [
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38733",
+                                    "example": [
+                                        {
+                                            "example_id": "37104",
+                                            "tts_size": "7.0",
+                                            "tran": "以色列的支持者",
+                                            "ex": "...the friends of Israel.",
+                                            "tts_mp3": "6/7/a/67a72434824849031c1ef34f3da993f7.mp3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38734",
+                                    "example": [
+                                        {
+                                            "example_id": "37105",
+                                            "tts_size": "11.0",
+                                            "tran": "伯明翰皇家芭蕾舞团赞助者协会",
+                                            "ex": "...The Friends of Birmingham Royal Ballet.",
+                                            "tts_mp3": "7/4/2/7421db55967835de1f87da0a5346169f.mp3"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "gramarinfo": [],
+                            "tran": "支持者;拥护者;赞助者",
+                            "def": "The <b>friends</b> <b>of</b> a country, cause, organization, or a famous politician are the people and organizations who help and support them.",
+                            "mean_id": "28146",
+                            "posp": [
+                                {
+                                    "label": "N-PLURAL; N-IN-NAMES"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "mean",
+                    "entry_id": "29427",
+                    "value": [
+                        {
+                            "mean_type": [
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38735",
+                                    "example": [
+                                        {
+                                            "example_id": "37106",
+                                            "tts_size": "20.0",
+                                            "tran": "总统说日本现在是盟友和国际合作伙伴。",
+                                            "ex": "The president said that Japan is now a friend and international partner.",
+                                            "tts_mp3": "1/0/e/10e573541cf9ee3b75ce3ffac26f9694.mp3"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "gramarinfo": [],
+                            "tran": "盟友;友国;友邦",
+                            "def": "If one country refers to another as a <b>friend</b>, they mean that the other country is not an enemy of theirs.",
+                            "mean_id": "28147",
+                            "posp": [
+                                {
+                                    "label": "N-COUNT"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "mean",
+                    "entry_id": "29428",
+                    "value": [
+                        {
+                            "mean_type": [
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38736",
+                                    "example": [
+                                        {
+                                            "example_id": "37107",
+                                            "tts_size": "12.0",
+                                            "tran": "他和流浪街头的孩子交上了朋友。",
+                                            "ex": "He has made friends with the kids on the street...",
+                                            "tts_mp3": "f/5/8/f5883e1acd9cf649253f7486e4feecac.mp3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38737",
+                                    "example": [
+                                        {
+                                            "example_id": "37108",
+                                            "tts_size": "8.0",
+                                            "tran": "丹尼斯很容易就能交到朋友。",
+                                            "ex": "Dennis made friends easily...",
+                                            "tts_mp3": "2/d/8/2d86886e09d15d72cf7ae01dbc8588a0.mp3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "info_type": "example",
+                                    "info_id": "38738",
+                                    "example": [
+                                        {
+                                            "example_id": "37109",
+                                            "tts_size": "11.0",
+                                            "tran": "他和两个女孩都成了朋友。",
+                                            "ex": "He had made a friend of both girls.",
+                                            "tts_mp3": "6/9/7/697f7991c47b47099397b22437cd8071.mp3"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "gramarinfo": [
+                                {
+                                    "tran": "",
+                                    "type": "hdgr",
+                                    "label": "V inflects, usu PHR <l>with</l> n"
+                                }
+                            ],
+                            "tran": "(与…)交朋友;(和…)建立友谊",
+                            "def": "If you <b>make friends</b> <b>with</b> someone, you begin a friendship with them. You can also say that two people <b>make friends</b> .",
+                            "mean_id": "28148",
+                            "posp": [
+                                {
+                                    "label": "PHR-RECIP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "word_name": "friend",
+            "word_id": "13451",
+            "word_emphasize": "friend",
+            "frequence": "5"
+        },
+        "zdict": "",
+        "from": "original",
+        "simple_means": {
+            "word_name": "friend",
+            "from": "original",
+            "word_means": [
+                "朋友",
+                "友人",
+                "赞助者",
+                "支持者",
+                "自己人",
+                "同志",
+                "同伙",
+                "同盟者"
+            ],
+            "tags": {
+                "core": [
+                    "高考",
+                    "CET4",
+                    "考研"
+                ],
+                "other": [
+                    ""
+                ]
+            },
+            "exchange": {
+                "word_third": [
+                    "friends"
+                ],
+                "word_ing": [
+                    "friending"
+                ],
+                "word_done": [
+                    "friended"
+                ],
+                "word_pl": [
+                    "friends"
+                ],
+                "word_past": [
+                    "friended"
+                ]
+            },
+            "symbols": [
+                {
+                    "ph_en": "frend",
+                    "ph_am": "frend",
+                    "parts": [
+                        {
+                            "part": "n.",
+                            "means": [
+                                "朋友",
+                                "友人",
+                                "赞助者",
+                                "支持者",
+                                "自己人",
+                                "同志",
+                                "同伙",
+                                "同盟者"
+                            ]
+                        }
+                    ],
+                    "ph_other": ""
+                }
+            ]
+        },
+        "lang": "1",
+        "oxford": {
+            "entry": [
+                {
+                    "tag": "entry",
+                    "name": "friend",
+                    "data": [
+                        {
+                            "tag": "h-g",
+                            "data": [
+                                {
+                                    "tag": "p",
+                                    "p": "n",
+                                    "p_text": "noun"
+                                },
+                                {
+                                    "tag": "sd-g",
+                                    "data": [
+                                        {
+                                            "tag": "sd",
+                                            "enText": "person you like",
+                                            "chText": "喜欢的人"
+                                        },
+                                        {
+                                            "tag": "n-g",
+                                            "n": "1",
+                                            "data": [
+                                                {
+                                                    "tag": "d",
+                                                    "enText": "a person you know well and like, and who is not usually a member of your family",
+                                                    "chText": "朋友；友人"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "This is my friend Tom.",
+                                                    "chText": "这是我的朋友汤姆。"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "Is he a friend of yours ?",
+                                                    "chText": "他是你的朋友吗？"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "She's an old friend (= I have known her a long time) .",
+                                                    "chText": "她是我的老朋友。"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "He's one of my best friends .",
+                                                    "chText": "他是我最要好的朋友之一。"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "a close/good friend ",
+                                                    "chText": "密友；好友"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "a childhood/family/lifelong friend ",
+                                                    "chText": "儿时 / 家庭 / 终生朋友"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "I heard about it through a friend of a friend .",
+                                                    "chText": "我通过朋友的朋友听到这事的。"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "She has a wide circle of friends .",
+                                                    "chText": "她交游很广。"
+                                                },
+                                                {
+                                                    "tag": "xrs",
+                                                    "xt": "see",
+                                                    "data": [
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "boyfriend",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "fair-weather",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "false friend",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "girlfriend",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "penfriend",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "school friend",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "befriend",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tag": "sd-g",
+                                    "data": [
+                                        {
+                                            "tag": "sd",
+                                            "enText": "supporter",
+                                            "chText": "支持者"
+                                        },
+                                        {
+                                            "tag": "n-g",
+                                            "n": "2",
+                                            "data": [
+                                                {
+                                                    "tag": "d",
+                                                    "enText": "a person who supports an organization, a charity, etc., especially by giving or raising money; a person who supports a particular idea, etc.",
+                                                    "chText": "赞助者；支持者"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "the Friends of St Martin's Hospital",
+                                                    "chText": "圣马丁医院的赞助者"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "a friend of democracy",
+                                                    "chText": "维护民主的人"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tag": "sd-g",
+                                    "data": [
+                                        {
+                                            "tag": "sd",
+                                            "enText": "not enemy",
+                                            "chText": "不是敌人"
+                                        },
+                                        {
+                                            "tag": "n-g",
+                                            "n": "3",
+                                            "data": [
+                                                {
+                                                    "tag": "d",
+                                                    "enText": "a person who has the same interests and opinions as yourself, and will help and support you",
+                                                    "chText": "自己人；同志；同伙；同盟者"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "You're among friends here─you can speak freely.",
+                                                    "chText": "这儿都是自己人，有话直说好啦。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tag": "sd-g",
+                                    "data": [
+                                        {
+                                            "tag": "sd",
+                                            "enText": "silly/annoying person",
+                                            "chText": "愚蠢的 / 讨厌的人"
+                                        },
+                                        {
+                                            "tag": "n-g",
+                                            "n": "4",
+                                            "data": [
+                                                {
+                                                    "tag": "ud",
+                                                    "before": [
+                                                        {
+                                                            "tag": "info",
+                                                            "data": [
+                                                                {
+                                                                    "tag": "r",
+                                                                    "r": "ironic",
+                                                                    "r_text": "ironic"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "enText": "used to talk about sb you do not know who has done sth silly or annoying",
+                                                    "chText": "（指做傻事或烦人的事而说话者不认识的人）"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "I wish our friend at the next table would shut up.",
+                                                    "chText": "但愿我们邻桌那位仁兄闭嘴。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tag": "sd-g",
+                                    "data": [
+                                        {
+                                            "tag": "sd",
+                                            "enText": "in parliament/court",
+                                            "chText": "议会；法庭"
+                                        },
+                                        {
+                                            "tag": "n-g",
+                                            "n": "5",
+                                            "data": [
+                                                {
+                                                    "tag": "ud",
+                                                    "before": [
+                                                        {
+                                                            "tag": "ds",
+                                                            "enText": "in Britain",
+                                                            "chText": "英国"
+                                                        }
+                                                    ],
+                                                    "enText": "used by a member of parliament to refer to another member of parliament or by a lawyer to refer to another lawyer in a court of law",
+                                                    "chText": "（议员间或律师间的一种称呼）朋友，阁下，同人"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "my honourable friend , the member for Henley (= in the House of Commons) ",
+                                                    "chText": "我尊敬的朋友亨利区议员（下院用语）"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "my noble friend (= in the House of Lords) ",
+                                                    "chText": "我尊贵的朋友（上院用语）"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "my learned friend (= in a court of law) ",
+                                                    "chText": "我博学的同人（法庭用语）"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tag": "sd-g",
+                                    "data": [
+                                        {
+                                            "tag": "sd",
+                                            "enText": "in religion",
+                                            "chText": "宗教"
+                                        },
+                                        {
+                                            "tag": "n-g",
+                                            "n": "6",
+                                            "data": [
+                                                {
+                                                    "tag": "as",
+                                                    "data": [
+                                                        {
+                                                            "tag": "a",
+                                                            "data": [
+                                                                {
+                                                                    "text": "Friend",
+                                                                    "hoverText": ""
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "tag": "d",
+                                                    "enText": "a member of the Society of Friends",
+                                                    "chText": "（新教）公谊会成员"
+                                                },
+                                                {
+                                                    "tag": "xrs",
+                                                    "xt": "syn",
+                                                    "data": [
+                                                        {
+                                                            "tag": "xr",
+                                                            "data": [
+                                                                {
+                                                                    "text": "Quaker",
+                                                                    "hoverText": "",
+                                                                    "canTrans": "1"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tag": "ids-g",
+                                    "data": [
+                                        {
+                                            "tag": "id-g",
+                                            "data": [
+                                                {
+                                                    "tag": "id",
+                                                    "enText": "be/make friends (with sb)",
+                                                    "chText": ""
+                                                },
+                                                {
+                                                    "tag": "d",
+                                                    "enText": "to be/become a friend of sb",
+                                                    "chText": "是 / 成为（某人的）朋友"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "We've been friends for years.",
+                                                    "chText": "我们是多年的朋友了。"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "They had a quarrel, but they're friends again now.",
+                                                    "chText": "他们吵过架，不过现在又和好了。"
+                                                },
+                                                {
+                                                    "tag": "x",
+                                                    "enText": "Simon finds it hard to make friends with other children.",
+                                                    "chText": "西蒙感到难以和其他孩子交朋友。"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tag": "id-g",
+                                            "data": [
+                                                {
+                                                    "tag": "id",
+                                                    "enText": "be (just) good friends",
+                                                    "chText": ""
+                                                },
+                                                {
+                                                    "tag": "ud",
+                                                    "enText": "used to say that two friends are not having a romantic relationship with each other",
+                                                    "chText": "（无恋爱关系）（只）是好朋友"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tag": "id-g",
+                                            "data": [
+                                                {
+                                                    "tag": "id",
+                                                    "enText": "a friend in need (is a friend indeed)",
+                                                    "chText": ""
+                                                },
+                                                {
+                                                    "tag": "d",
+                                                    "before": [
+                                                        {
+                                                            "tag": "info",
+                                                            "data": [
+                                                                {
+                                                                    "tag": "r",
+                                                                    "r": "saying",
+                                                                    "r_text": "saying"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "enText": "a friend who gives you help when you need it (is a true friend)",
+                                                    "chText": "患难的朋友（才是真正的朋友）；患难之交（见真情）"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tag": "id-g",
+                                            "data": [
+                                                {
+                                                    "tag": "id",
+                                                    "enText": "have friends in high places",
+                                                    "chText": ""
+                                                },
+                                                {
+                                                    "tag": "d",
+                                                    "enText": "to know important people who can help you",
+                                                    "chText": "有位高权重的朋友；有贵人相助"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tag": "xrs",
+                                            "xt": "id",
+                                            "data": [
+                                                {
+                                                    "tag": "xr",
+                                                    "xt": "id",
+                                                    "data": [
+                                                        {
+                                                            "tag": "id",
+                                                            "enText": "man's best friend",
+                                                            "chText": ""
+                                                        },
+                                                        {
+                                                            "tag": "d",
+                                                            "enText": "a way of describing a dog",
+                                                            "chText": "人类的好朋友（指狗）"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "unbox": ""
+        },
+        "usecase": {
+            "collocation": {
+                "data": [
+                    {
+                        "p": "adj.",
+                        "ex": [
+                            {
+                                "en": "best friend",
+                                "zh": "最好的朋友"
+                            },
+                            {
+                                "en": "close friend",
+                                "zh": "亲密的朋友"
+                            },
+                            {
+                                "en": "dear friend",
+                                "zh": "挚友"
+                            },
+                            {
+                                "en": "faithful friend",
+                                "zh": "忠实的朋友"
+                            },
+                            {
+                                "en": "former friend",
+                                "zh": "曾经的朋友"
+                            },
+                            {
+                                "en": "good friend",
+                                "zh": "好朋友"
+                            },
+                            {
+                                "en": "loyal friend",
+                                "zh": "忠诚的朋友"
+                            },
+                            {
+                                "en": "mutual friend",
+                                "zh": "共同的朋友"
+                            },
+                            {
+                                "en": "old friend",
+                                "zh": "老朋友"
+                            },
+                            {
+                                "en": "personal friend",
+                                "zh": "私人朋友"
+                            },
+                            {
+                                "en": "trusted friend",
+                                "zh": "信赖的朋友"
+                            }
+                        ]
+                    },
+                    {
+                        "p": "n.",
+                        "ex": [
+                            {
+                                "en": "childhood friend",
+                                "zh": "儿时的朋友"
+                            },
+                            {
+                                "en": "friend of the family",
+                                "zh": "一家人的朋友"
+                            },
+                            {
+                                "en": "friend or relative",
+                                "zh": "亲朋"
+                            },
+                            {
+                                "en": "friend or foe",
+                                "zh": "敌友"
+                            }
+                        ]
+                    },
+                    {
+                        "p": "v.",
+                        "ex": [
+                            {
+                                "en": "tell a friend",
+                                "zh": "告诉朋友"
+                            },
+                            {
+                                "en": "make a friend",
+                                "zh": "交朋友"
+                            }
+                        ]
+                    }
+                ],
+                "desc": "friend与以下词性连用"
+            },
+            "idiom": [
+                {
+                    "p": "n.",
+                    "tag": "ids-g",
+                    "data": [
+                        {
+                            "tag": "id-g",
+                            "data": [
+                                {
+                                    "enText": "be/make friends (with sb)",
+                                    "tag": "id",
+                                    "chText": ""
+                                },
+                                {
+                                    "enText": "to be/become a friend of sb",
+                                    "tag": "d",
+                                    "chText": "是 / 成为（某人的）朋友"
+                                },
+                                {
+                                    "enText": "We've been friends for years.",
+                                    "tag": "x",
+                                    "chText": "我们是多年的朋友了。"
+                                },
+                                {
+                                    "enText": "They had a quarrel, but they're friends again now.",
+                                    "tag": "x",
+                                    "chText": "他们吵过架，不过现在又和好了。"
+                                },
+                                {
+                                    "enText": "Simon finds it hard to make friends with other children.",
+                                    "tag": "x",
+                                    "chText": "西蒙感到难以和其他孩子交朋友。"
+                                }
+                            ]
+                        },
+                        {
+                            "tag": "id-g",
+                            "data": [
+                                {
+                                    "enText": "be (just) good friends",
+                                    "tag": "id",
+                                    "chText": ""
+                                },
+                                {
+                                    "enText": "used to say that two friends are not having a romantic relationship with each other",
+                                    "tag": "ud",
+                                    "chText": "（无恋爱关系）（只）是好朋友"
+                                }
+                            ]
+                        },
+                        {
+                            "tag": "id-g",
+                            "data": [
+                                {
+                                    "enText": "a friend in need (is a friend indeed)",
+                                    "tag": "id",
+                                    "chText": ""
+                                },
+                                {
+                                    "enText": "a friend who gives you help when you need it (is a true friend)",
+                                    "tag": "d",
+                                    "chText": "患难的朋友（才是真正的朋友）；患难之交（见真情）",
+                                    "before": [
+                                        {
+                                            "tag": "info",
+                                            "data": [
+                                                {
+                                                    "r_text": "saying",
+                                                    "r": "saying",
+                                                    "tag": "r"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "tag": "id-g",
+                            "data": [
+                                {
+                                    "enText": "have friends in high places",
+                                    "tag": "id",
+                                    "chText": ""
+                                },
+                                {
+                                    "enText": "to know important people who can help you",
+                                    "tag": "d",
+                                    "chText": "有位高权重的朋友；有贵人相助"
+                                }
+                            ]
+                        },
+                        {
+                            "tag": "xrs",
+                            "data": [
+                                {
+                                    "tag": "xr",
+                                    "data": [
+                                        {
+                                            "enText": "man's best friend",
+                                            "tag": "id",
+                                            "chText": ""
+                                        },
+                                        {
+                                            "enText": "a way of describing a dog",
+                                            "tag": "d",
+                                            "chText": "人类的好朋友（指狗）"
+                                        }
+                                    ],
+                                    "xt": "id"
+                                }
+                            ],
+                            "xt": "id"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "liju_result": {
+        "double": "[[[[\"I\",\"w_0\",\"w_0,w_11\",0,\" \"],[\"had\",\"w_1\",\"w_1,w_2,w_20\",0,\" \"],[\"a\",\"w_2\",\"w_1,w_2,w_20\",0,\" \"],[\"long\",\"w_3\",\"w_3,w_4,w_5,w_21\",0,\" \"],[\"talk\",\"w_4\",\"w_3,w_4,w_5,w_21\",0,\" \"],[\"about\",\"w_5\",\"w_3,w_4,w_5,w_21\",0,\" \"],[\"this\",\"w_6\",\"w_6,w_18\",0,\" \"],[\"with\",\"w_7\",\"w_7,w_12\",0,\" \"],[\"my\",\"w_8\",\"w_8,w_13\",0,\" \"],[\"best\",\"w_9\",\"w_9,w_14\",0,\" \"],[\"friend\",\"w_10\",\"w_10,w_16\",1]],[[\"\\u6211\",\"w_11\",\"w_0,w_11\",0],[\"\\u548c\",\"w_12\",\"w_7,w_12\",0],[\"\\u6211\",\"w_13\",\"w_8,w_13\",0],[\"\\u6700\\u597d\",\"w_14\",\"w_9,w_14\",0],[\"\\u7684\",\"w_15\",\"\",0],[\"\\u670b\\u53cb\",\"w_16\",\"w_10,w_16\",0],[\"\\u5c31\",\"w_17\",\"\",0],[\"\\u6b64\\u4e8b\",\"w_18\",\"w_6,w_18\",0],[\"\\u8fdb\\u884c\",\"w_19\",\"\",0],[\"\\u4e86\",\"w_20\",\"w_1,w_2,w_20\",0],[\"\\u957f\\u8c08\",\"w_21\",\"w_3,w_4,w_5,w_21\",0],[\"\\u3002\",\"w_22\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24860],[[[\"I\",\"w_46\",\"w_46,w_54\",0,\" \"],[\"still\",\"w_47\",\"w_47,w_55\",0,\" \"],[\"wanted\",\"w_48\",\"w_48,w_49,w_56\",0,\" \"],[\"to\",\"w_49\",\"w_48,w_49,w_56\",0,\" \"],[\"be\",\"w_50\",\"w_50,w_59\",0,\" \"],[\"friends\",\"w_51\",\"w_51,w_60\",1,\" \"],[\"with\",\"w_52\",\"w_52,w_57\",0,\" \"],[\"Alison\",\"w_53\",\"w_53,w_58\",0]],[[\"\\u6211\",\"w_54\",\"w_46,w_54\",0],[\"\\u8fd8\\u662f\",\"w_55\",\"w_47,w_55\",0],[\"\\u60f3\",\"w_56\",\"w_48,w_49,w_56\",0],[\"\\u548c\",\"w_57\",\"w_52,w_57\",0],[\"\\u827e\\u8389\\u68ee\",\"w_58\",\"w_53,w_58\",0],[\"\\u505a\",\"w_59\",\"w_50,w_59\",0],[\"\\u670b\\u53cb\",\"w_60\",\"w_51,w_60\",0],[\"\\u3002\",\"w_61\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24862],[[[\"The\",\"w_78\",\"w_78\",0,\" \"],[\"president\",\"w_79\",\"w_79,w_91\",0,\" \"],[\"said\",\"w_80\",\"w_80,w_81,w_92\",0,\" \"],[\"that\",\"w_81\",\"w_80,w_81,w_92\",0,\" \"],[\"Japan\",\"w_82\",\"w_82,w_93\",0,\" \"],[\"is\",\"w_83\",\"w_83,w_95\",0,\" \"],[\"now\",\"w_84\",\"w_84,w_94\",0,\" \"],[\"a\",\"w_85\",\"w_85\",0,\" \"],[\"friend\",\"w_86\",\"w_86,w_96\",1,\" \"],[\"and\",\"w_87\",\"w_87,w_97\",0,\" \"],[\"international\",\"w_88\",\"w_88,w_98\",0,\" \"],[\"partner\",\"w_89\",\"w_89,w_99,w_100\",0],[\".\",\"w_90\",\"w_90,w_101\",0]],[[\"\\u603b\\u7edf\",\"w_91\",\"w_79,w_91\",0],[\"\\u8bf4\",\"w_92\",\"w_80,w_81,w_92\",0],[\"\\u65e5\\u672c\",\"w_93\",\"w_82,w_93\",0],[\"\\u73b0\\u5728\",\"w_94\",\"w_84,w_94\",0],[\"\\u662f\",\"w_95\",\"w_83,w_95\",0],[\"\\u76df\\u53cb\",\"w_96\",\"w_86,w_96\",0],[\"\\u548c\",\"w_97\",\"w_87,w_97\",0],[\"\\u56fd\\u9645\",\"w_98\",\"w_88,w_98\",0],[\"\\u5408\\u4f5c\",\"w_99\",\"w_89,w_99,w_100\",0],[\"\\u4f19\\u4f34\",\"w_100\",\"w_89,w_99,w_100\",0],[\"\\u3002\",\"w_101\",\"w_90,w_101\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24865],[[[\"He\",\"w_126\",\"w_126,w_136\",0,\" \"],[\"has\",\"w_127\",\"w_127,w_128,w_144\",0,\" \"],[\"made\",\"w_128\",\"w_127,w_128,w_144\",0,\" \"],[\"friends\",\"w_129\",\"w_129,w_142\",1,\" \"],[\"with\",\"w_130\",\"w_130,w_137\",0,\" \"],[\"the\",\"w_131\",\"w_131,w_140\",0,\" \"],[\"kids\",\"w_132\",\"w_132,w_141\",0,\" \"],[\"on\",\"w_133\",\"w_133,w_143\",0,\" \"],[\"the\",\"w_134\",\"w_134\",0,\" \"],[\"street\",\"w_135\",\"w_135,w_138,w_139\",0]],[[\"\\u4ed6\",\"w_136\",\"w_126,w_136\",0],[\"\\u548c\",\"w_137\",\"w_130,w_137\",0],[\"\\u6d41\\u6d6a\",\"w_138\",\"w_135,w_138,w_139\",0],[\"\\u8857\\u5934\",\"w_139\",\"w_135,w_138,w_139\",0],[\"\\u7684\",\"w_140\",\"w_131,w_140\",0],[\"\\u5b69\\u5b50\",\"w_141\",\"w_132,w_141\",0],[\"\\u4ea4\",\"w_142\",\"w_129,w_142\",0],[\"\\u4e0a\",\"w_143\",\"w_133,w_143\",0],[\"\\u4e86\",\"w_144\",\"w_127,w_128,w_144\",0],[\"\\u670b\\u53cb\",\"w_145\",\"\",0],[\"\\u3002\",\"w_146\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24866],[[[\"She\",\"w_168\",\"w_168,w_177\",0,\" \"],[\"never\",\"w_169\",\"w_169,w_170,w_178,w_179,w_180\",0,\" \"],[\"was\",\"w_170\",\"w_169,w_170,w_178,w_179,w_180\",0,\" \"],[\"a\",\"w_171\",\"w_171\",0,\" \"],[\"close\",\"w_172\",\"w_172,w_173,w_183\",0,\" \"],[\"friend\",\"w_173\",\"w_172,w_173,w_183\",1,\" \"],[\"of\",\"w_174\",\"w_174\",0,\" \"],[\"mine\",\"w_175\",\"w_175,w_181\",0],[\".\",\"w_176\",\"w_176,w_184\",0]],[[\"\\u5979\",\"w_177\",\"w_168,w_177\",0],[\"\\u4ece\\u6765\",\"w_178\",\"w_169,w_170,w_178,w_179,w_180\",0],[\"\\u5c31\",\"w_179\",\"w_169,w_170,w_178,w_179,w_180\",0],[\"\\u4e0d\\u662f\",\"w_180\",\"w_169,w_170,w_178,w_179,w_180\",0],[\"\\u6211\",\"w_181\",\"w_175,w_181\",0],[\"\\u7684\",\"w_182\",\"\",0],[\"\\u5bc6\\u53cb\",\"w_183\",\"w_172,w_173,w_183\",0],[\"\\u3002\",\"w_184\",\"w_176,w_184\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24861],[[[\"We\",\"w_202\",\"w_202,w_206\",0,\" \"],[\"remained\",\"w_203\",\"w_203,w_207,w_208\",0,\" \"],[\"good\",\"w_204\",\"w_204,w_209\",0,\" \"],[\"friends\",\"w_205\",\"w_205,w_210,w_211\",1]],[[\"\\u6211\\u4eec\",\"w_206\",\"w_202,w_206\",0],[\"\\u4e00\\u76f4\",\"w_207\",\"w_203,w_207,w_208\",0],[\"\\u662f\",\"w_208\",\"w_203,w_207,w_208\",0],[\"\\u597d\",\"w_209\",\"w_204,w_209\",0],[\"\\u670b\\u53cb\",\"w_210\",\"w_205,w_210,w_211\",0],[\"\\u3002\",\"w_211\",\"w_205,w_210,w_211\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24863],[[[\"Sally\",\"w_222\",\"w_222,w_228\",0,\" \"],[\"and\",\"w_223\",\"w_223,w_229\",0,\" \"],[\"I\",\"w_224\",\"w_224,w_230\",0,\" \"],[\"became\",\"w_225\",\"w_225,w_231,w_232\",0,\" \"],[\"friends\",\"w_226\",\"w_226,w_233\",1],[\".\",\"w_227\",\"w_227,w_234\",0]],[[\"\\u8428\\u8389\",\"w_228\",\"w_222,w_228\",0],[\"\\u548c\",\"w_229\",\"w_223,w_229\",0],[\"\\u6211\",\"w_230\",\"w_224,w_230\",0],[\"\\u6210\",\"w_231\",\"w_225,w_231,w_232\",0],[\"\\u4e86\",\"w_232\",\"w_225,w_231,w_232\",0],[\"\\u670b\\u53cb\",\"w_233\",\"w_226,w_233\",0],[\"\\u3002\",\"w_234\",\"w_227,w_234\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24864],[[[\"Dennis\",\"w_248\",\"w_248,w_252\",0,\" \"],[\"made\",\"w_249\",\"w_249,w_250,w_256\",0,\" \"],[\"friends\",\"w_250\",\"w_249,w_250,w_256\",1,\" \"],[\"easily\",\"w_251\",\"w_251,w_253,w_254,w_255\",0]],[[\"\\u4e39\\u5c3c\\u65af\",\"w_252\",\"w_248,w_252\",0],[\"\\u5f88\",\"w_253\",\"w_251,w_253,w_254,w_255\",0],[\"\\u5bb9\\u6613\",\"w_254\",\"w_251,w_253,w_254,w_255\",0],[\"\\u5c31\\u80fd\",\"w_255\",\"w_251,w_253,w_254,w_255\",0],[\"\\u4ea4\",\"w_256\",\"w_249,w_250,w_256\",0],[\"\\u5230\",\"w_257\",\"\",0],[\"\\u670b\\u53cb\",\"w_258\",\"\",0],[\"\\u3002\",\"w_259\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24867],[[[\"He\",\"w_272\",\"w_272,w_281\",0,\" \"],[\"had\",\"w_273\",\"w_273,w_286\",0,\" \"],[\"made\",\"w_274\",\"w_274,w_275,w_287,w_288\",0,\" \"],[\"a\",\"w_275\",\"w_274,w_275,w_287,w_288\",0,\" \"],[\"friend\",\"w_276\",\"w_276,w_289\",1,\" \"],[\"of\",\"w_277\",\"w_277\",0,\" \"],[\"both\",\"w_278\",\"w_278,w_283,w_284\",0,\" \"],[\"girls\",\"w_279\",\"w_279,w_285\",0],[\".\",\"w_280\",\"w_280,w_290\",0]],[[\"\\u4ed6\",\"w_281\",\"w_272,w_281\",0],[\"\\u548c\",\"w_282\",\"\",0],[\"\\u4e24\",\"w_283\",\"w_278,w_283,w_284\",0],[\"\\u4e2a\",\"w_284\",\"w_278,w_283,w_284\",0],[\"\\u5973\\u5b69\",\"w_285\",\"w_279,w_285\",0],[\"\\u90fd\",\"w_286\",\"w_273,w_286\",0],[\"\\u6210\",\"w_287\",\"w_274,w_275,w_287,w_288\",0],[\"\\u4e86\",\"w_288\",\"w_274,w_275,w_287,w_288\",0],[\"\\u670b\\u53cb\",\"w_289\",\"w_276,w_289\",0],[\"\\u3002\",\"w_290\",\"w_280,w_290\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24868],[[[\"I\",\"w_310\",\"w_310,w_311,w_319\",0],[\"'m\",\"w_311\",\"w_310,w_311,w_319\",0,\" \"],[\"going\",\"w_312\",\"w_312,w_320\",0,\" \"],[\"out\",\"w_313\",\"w_313,w_326\",0,\" \"],[\"with\",\"w_314\",\"w_314,w_321\",0,\" \"],[\"an\",\"w_315\",\"w_315,w_322,w_323\",0,\" \"],[\"old\",\"w_316\",\"w_316,w_324\",0,\" \"],[\"friend\",\"w_317\",\"w_317,w_325\",1],[\".\",\"w_318\",\"w_318,w_327\",0]],[[\"\\u6211\",\"w_319\",\"w_310,w_311,w_319\",0],[\"\\u8981\",\"w_320\",\"w_312,w_320\",0],[\"\\u548c\",\"w_321\",\"w_314,w_321\",0],[\"\\u4e00\",\"w_322\",\"w_315,w_322,w_323\",0],[\"\\u4e2a\",\"w_323\",\"w_315,w_322,w_323\",0],[\"\\u8001\",\"w_324\",\"w_316,w_324\",0],[\"\\u670b\\u53cb\",\"w_325\",\"w_317,w_325\",0],[\"\\u51fa\\u53bb\",\"w_326\",\"w_313,w_326\",0],[\"\\u3002\",\"w_327\",\"w_318,w_327\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",380],[[[\"He\",\"w_346\",\"w_346,w_356\",0,\" \"],[\"became\",\"w_347\",\"w_347,w_357,w_358\",0,\" \"],[\"Vivien\",\"w_348\",\"w_348,w_349,w_359\",0,\" \"],[\"Leigh\",\"w_349\",\"w_348,w_349,w_359\",0],[\"'s\",\"w_350\",\"w_350\",0,\" \"],[\"devoted\",\"w_351\",\"w_351,w_360\",0,\" \"],[\"friend\",\"w_352\",\"w_352,w_362\",1,\" \"],[\"and\",\"w_353\",\"w_353,w_363\",0,\" \"],[\"comforter\",\"w_354\",\"w_354,w_364,w_365,w_366\",0],[\".\",\"w_355\",\"w_355,w_369\",0]],[[\"\\u4ed6\",\"w_356\",\"w_346,w_356\",0],[\"\\u6210\",\"w_357\",\"w_347,w_357,w_358\",0],[\"\\u4e86\",\"w_358\",\"w_347,w_357,w_358\",0],[\"\\u8d39\\u96ef\\u4e3d\",\"w_359\",\"w_348,w_349,w_359\",0],[\"\\u5fe0\\u8bda\",\"w_360\",\"w_351,w_360\",0],[\"\\u7684\",\"w_361\",\"\",0],[\"\\u670b\\u53cb\",\"w_362\",\"w_352,w_362\",0],[\"\\u548c\",\"w_363\",\"w_353,w_363\",0],[\"\\u7ed9\",\"w_364\",\"w_354,w_364,w_365,w_366\",0],[\"\\u5979\",\"w_365\",\"w_354,w_364,w_365,w_366\",0],[\"\\u5b89\\u6170\",\"w_366\",\"w_354,w_364,w_365,w_366\",0],[\"\\u7684\",\"w_367\",\"\",0],[\"\\u4eba\",\"w_368\",\"\",0],[\"\\u3002\",\"w_369\",\"w_355,w_369\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",11586],[[[\"She\",\"w_394\",\"w_394,w_406\",0],[\"'s\",\"w_395\",\"w_395,w_407\",0,\" \"],[\"my\",\"w_396\",\"w_396,w_408\",0,\" \"],[\"best\",\"w_397\",\"w_397,w_409\",0,\" \"],[\"friend\",\"w_398\",\"w_398,w_411\",1],[\",\",\"w_399\",\"w_399,w_400,w_412\",0,\" \"],[\"and\",\"w_400\",\"w_399,w_400,w_412\",0,\" \"],[\"I\",\"w_401\",\"w_401,w_413\",0,\" \"],[\"really\",\"w_402\",\"w_402,w_414\",0,\" \"],[\"love\",\"w_403\",\"w_403,w_417\",0,\" \"],[\"her\",\"w_404\",\"w_404,w_418\",0],[\".\",\"w_405\",\"w_405,w_419\",0]],[[\"\\u5979\",\"w_406\",\"w_394,w_406\",0],[\"\\u662f\",\"w_407\",\"w_395,w_407\",0],[\"\\u6211\",\"w_408\",\"w_396,w_408\",0],[\"\\u6700\\u597d\",\"w_409\",\"w_397,w_409\",0],[\"\\u7684\",\"w_410\",\"\",0],[\"\\u670b\\u53cb\",\"w_411\",\"w_398,w_411\",0],[\"\\uff0c\",\"w_412\",\"w_399,w_400,w_412\",0],[\"\\u6211\",\"w_413\",\"w_401,w_413\",0],[\"\\u771f\",\"w_414\",\"w_402,w_414\",0],[\"\\u7684\",\"w_415\",\"\",0],[\"\\u5f88\",\"w_416\",\"\",0],[\"\\u559c\\u6b22\",\"w_417\",\"w_403,w_417\",0],[\"\\u5979\",\"w_418\",\"w_404,w_418\",0],[\"\\u3002\",\"w_419\",\"w_405,w_419\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",26597],[[[\"Gifford\",\"w_446\",\"w_446,w_458\",0,\" \"],[\"was\",\"w_447\",\"w_447,w_459\",0,\" \"],[\"a\",\"w_448\",\"w_448,w_462,w_463\",0,\" \"],[\"friend\",\"w_449\",\"w_449,w_464\",1],[\".\",\"w_450\",\"w_450,w_465\",0,\" \"],[\"I\",\"w_451\",\"w_451,w_452,w_466\",0],[\"'d\",\"w_452\",\"w_451,w_452,w_466\",0,\" \"],[\"known\",\"w_453\",\"w_453,w_469\",0,\" \"],[\"him\",\"w_454\",\"w_454,w_468\",0,\" \"],[\"for\",\"w_455\",\"w_455\",0,\" \"],[\"nine\",\"w_456\",\"w_456,w_470\",0,\" \"],[\"years\",\"w_457\",\"w_457,w_471\",0]],[[\"\\u5409\\u798f\\u5fb7\",\"w_458\",\"w_446,w_458\",0],[\"\\u662f\",\"w_459\",\"w_447,w_459\",0],[\"\\u6211\",\"w_460\",\"\",0],[\"\\u7684\",\"w_461\",\"\",0],[\"\\u4e00\",\"w_462\",\"w_448,w_462,w_463\",0],[\"\\u4f4d\",\"w_463\",\"w_448,w_462,w_463\",0],[\"\\u670b\\u53cb\",\"w_464\",\"w_449,w_464\",0],[\"\\u3002\",\"w_465\",\"w_450,w_465\",0],[\"\\u6211\",\"w_466\",\"w_451,w_452,w_466\",0],[\"\\u548c\",\"w_467\",\"\",0],[\"\\u4ed6\",\"w_468\",\"w_454,w_468\",0],[\"\\u8ba4\\u8bc6\",\"w_469\",\"w_453,w_469\",0],[\"9\",\"w_470\",\"w_456,w_470\",0],[\"\\u5e74\",\"w_471\",\"w_457,w_471\",0],[\"\\u4e86\",\"w_472\",\"\",0],[\"\\u3002\",\"w_473\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",33637],[[[\"I\",\"w_502\",\"w_502,w_509\",0,\" \"],[\"called\",\"w_503\",\"w_503,w_510\",0,\" \"],[\"my\",\"w_504\",\"w_504,w_509\",0,\" \"],[\"old\",\"w_505\",\"w_505,w_511\",0,\" \"],[\"friend\",\"w_506\",\"w_506,w_512\",1,\" \"],[\"John\",\"w_507\",\"w_507,w_508,w_513,w_514\",0,\" \"],[\"Horner\",\"w_508\",\"w_507,w_508,w_513,w_514\",0]],[[\"\\u6211\",\"w_509\",\"w_504,w_509\",0],[\"\\u7ed9\",\"w_510\",\"w_503,w_510\",0],[\"\\u8001\",\"w_511\",\"w_505,w_511\",0],[\"\\u670b\\u53cb\",\"w_512\",\"w_506,w_512\",0],[\"\\u7ea6\\u7ff0\\u00b7\\u970d\\u7eb3\",\"w_513\",\"w_507,w_508,w_513,w_514\",0],[\"\\u6253\",\"w_514\",\"w_507,w_508,w_513,w_514\",0],[\"\\u4e86\",\"w_515\",\"\",0],[\"\\u7535\\u8bdd\",\"w_516\",\"\",0],[\"\\u3002\",\"w_517\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",42067],[[[\"I\",\"w_534\",\"w_534,w_543\",0,\" \"],[\"have\",\"w_535\",\"w_535,w_544\",0,\" \"],[\"a\",\"w_536\",\"w_536,w_545,w_546\",0,\" \"],[\"good\",\"w_537\",\"w_537,w_550\",0,\" \"],[\"friend\",\"w_538\",\"w_538,w_539,w_551\",1,\" \"],[\"who\",\"w_539\",\"w_538,w_539,w_551\",0],[\"'s\",\"w_540\",\"w_540,w_549\",0,\" \"],[\"a\",\"w_541\",\"w_541,w_546\",0,\" \"],[\"teacher\",\"w_542\",\"w_542,w_548\",0]],[[\"\\u6211\",\"w_543\",\"w_534,w_543\",0],[\"\\u6709\",\"w_544\",\"w_535,w_544\",0],[\"\\u4e00\",\"w_545\",\"w_536,w_545,w_546\",0],[\"\\u4e2a\",\"w_546\",\"w_541,w_546\",0],[\"\\u5f53\",\"w_547\",\"\",0],[\"\\u6559\\u5e08\",\"w_548\",\"w_542,w_548\",0],[\"\\u7684\",\"w_549\",\"w_540,w_549\",0],[\"\\u597d\",\"w_550\",\"w_537,w_550\",0],[\"\\u670b\\u53cb\",\"w_551\",\"w_538,w_539,w_551\",0],[\"\\u3002\",\"w_552\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",28188],[[[\"It\",\"w_572\",\"w_572,w_573,w_586\",0,\" \"],[\"would\",\"w_573\",\"w_572,w_573,w_586\",0,\" \"],[\"be\",\"w_574\",\"w_574,w_598\",0,\" \"],[\"nice\",\"w_575\",\"w_575,w_599\",0,\" \"],[\"to\",\"w_576\",\"w_576\",0,\" \"],[\"have\",\"w_577\",\"w_577,w_587\",0,\" \"],[\"someone\",\"w_578\",\"w_578,w_579,w_593\",0,\" \"],[\"who\",\"w_579\",\"w_578,w_579,w_593\",0,\" \"],[\"really\",\"w_580\",\"w_580,w_589\",0,\" \"],[\"understood\",\"w_581\",\"w_581,w_590\",0,\" \"],[\"me\",\"w_582\",\"w_582,w_591\",0],[\",\",\"w_583\",\"w_583,w_594\",0,\" \"],[\"a\",\"w_584\",\"w_584,w_595,w_596\",0,\" \"],[\"friend\",\"w_585\",\"w_585,w_597\",1]],[[\"\\u8981\\u662f\",\"w_586\",\"w_572,w_573,w_586\",0],[\"\\u6709\",\"w_587\",\"w_577,w_587\",0],[\"\\u4e2a\",\"w_588\",\"w_578,w_588\",0],[\"\\u771f\\u6b63\",\"w_589\",\"w_580,w_589\",0],[\"\\u7406\\u89e3\",\"w_590\",\"w_581,w_590\",0],[\"\\u6211\",\"w_591\",\"w_582,w_591\",0],[\"\\u7684\",\"w_592\",\"\",0],[\"\\u4eba\",\"w_593\",\"w_578,w_579,w_593\",0],[\"\\u3001\",\"w_594\",\"w_583,w_594\",0],[\"\\u6709\",\"w_595\",\"w_584,w_595,w_596\",0],[\"\\u4e2a\",\"w_596\",\"w_584,w_595,w_596\",0],[\"\\u670b\\u53cb\",\"w_597\",\"w_585,w_597\",0],[\"\\u5c31\",\"w_598\",\"w_574,w_598\",0],[\"\\u597d\",\"w_599\",\"w_575,w_599\",0],[\"\\u4e86\",\"w_600\",\"\",0],[\"\\u3002\",\"w_601\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",66954],[[[\"John\",\"w_632\",\"w_632,w_637\",0],[\"'s\",\"w_633\",\"w_633,w_638\",0,\" \"],[\"my\",\"w_634\",\"w_634,w_639\",0,\" \"],[\"best\",\"w_635\",\"w_635,w_640\",0,\" \"],[\"friend\",\"w_636\",\"w_636,w_642\",1]],[[\"\\u7ea6\\u7ff0\",\"w_637\",\"w_632,w_637\",0],[\"\\u662f\",\"w_638\",\"w_633,w_638\",0],[\"\\u6211\",\"w_639\",\"w_634,w_639\",0],[\"\\u6700\\u597d\",\"w_640\",\"w_635,w_640\",0],[\"\\u7684\",\"w_641\",\"\",0],[\"\\u670b\\u53cb\",\"w_642\",\"w_636,w_642\",0],[\"\\u3002\",\"w_643\",\"\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",39830],[[[\"We\",\"w_656\",\"w_656,w_662\",0,\" \"],[\"gratified\",\"w_657\",\"w_657,w_663\",0,\" \"],[\"our\",\"w_658\",\"w_658,w_662\",0,\" \"],[\"friend\",\"w_659\",\"w_659,w_665\",1],[\"'s\",\"w_660\",\"w_660,w_666\",0,\" \"],[\"curiosity\",\"w_661\",\"w_661,w_667,w_668\",0]],[[\"\\u6211\\u4eec\",\"w_662\",\"w_658,w_662\",0],[\"\\u6ee1\\u8db3\",\"w_663\",\"w_657,w_663\",0],[\"\\u4e86\",\"w_664\",\"\",0],[\"\\u670b\\u53cb\",\"w_665\",\"w_659,w_665\",0],[\"\\u7684\",\"w_666\",\"w_660,w_666\",0],[\"\\u597d\\u5947\\u5fc3\",\"w_667\",\"w_661,w_667,w_668\",0],[\"\\u3002\",\"w_668\",\"w_661,w_667,w_668\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",26885],[[[\"My\",\"w_682\",\"w_682,w_694\",0,\" \"],[\"friend\",\"w_683\",\"w_683,w_697\",1,\" \"],[\"and\",\"w_684\",\"w_684,w_695\",0,\" \"],[\"I\",\"w_685\",\"w_685,w_696\",0,\" \"],[\"returned\",\"w_686\",\"w_686,w_702\",0,\" \"],[\"to\",\"w_687\",\"w_687\",0,\" \"],[\"town\",\"w_688\",\"w_688,w_702\",0,\" \"],[\"by\",\"w_689\",\"w_689,w_698\",0,\" \"],[\"the\",\"w_690\",\"w_690\",0,\" \"],[\"midnight\",\"w_691\",\"w_691,w_698,w_699\",0,\" \"],[\"express\",\"w_692\",\"w_692,w_701\",0],[\".\",\"w_693\",\"w_693,w_703\",0]],[[\"\\u6211\",\"w_694\",\"w_682,w_694\",0],[\"\\u548c\",\"w_695\",\"w_684,w_695\",0],[\"\\u6211\",\"w_696\",\"w_685,w_696\",0],[\"\\u670b\\u53cb\",\"w_697\",\"w_683,w_697\",0],[\"\\u4e58\",\"w_698\",\"w_691,w_698,w_699\",0],[\"\\u5348\\u591c\",\"w_699\",\"w_691,w_698,w_699\",0],[\"\\u7684\",\"w_700\",\"\",0],[\"\\u5feb\\u8f66\",\"w_701\",\"w_692,w_701\",0],[\"\\u56de\\u57ce\",\"w_702\",\"w_688,w_702\",0],[\"\\u3002\",\"w_703\",\"w_693,w_703\",0]],\"\\u300a\\u6c49\\u82f1\\u5927\\u8bcd\\u5178\\u300b\",80312],[[[\"The\",\"w_726\",\"w_726\",0,\" \"],[\"other\",\"w_727\",\"w_727,w_728,w_738\",0,\" \"],[\"day\",\"w_728\",\"w_727,w_728,w_738\",0,\" \"],[\"I\",\"w_729\",\"w_729,w_739\",0,\" \"],[\"came\",\"w_730\",\"w_730,w_731,w_743,w_744\",0,\" \"],[\"across\",\"w_731\",\"w_730,w_731,w_743,w_744\",0,\" \"],[\"a\",\"w_732\",\"w_732,w_745,w_746\",0,\" \"],[\"friend\",\"w_733\",\"w_733,w_747\",1,\" \"],[\"in\",\"w_734\",\"w_734,w_740\",0,\" \"],[\"the\",\"w_735\",\"w_735\",0,\" \"],[\"street\",\"w_736\",\"w_736,w_741,w_742\",0],[\".\",\"w_737\",\"w_737,w_748\",0]],[[\"\\u65e5\\u524d\",\"w_738\",\"w_727,w_728,w_738\",0],[\"\\u6211\",\"w_739\",\"w_729,w_739\",0],[\"\\u5728\",\"w_740\",\"w_734,w_740\",0],[\"\\u8857\",\"w_741\",\"w_736,w_741,w_742\",0],[\"\\u4e0a\",\"w_742\",\"w_736,w_741,w_742\",0],[\"\\u9047\\u89c1\",\"w_743\",\"w_730,w_731,w_743,w_744\",0],[\"\\u4e86\",\"w_744\",\"w_730,w_731,w_743,w_744\",0],[\"\\u4e00\",\"w_745\",\"w_732,w_745,w_746\",0],[\"\\u4f4d\",\"w_746\",\"w_732,w_745,w_746\",0],[\"\\u670b\\u53cb\",\"w_747\",\"w_733,w_747\",0],[\"\\u3002\",\"w_748\",\"w_737,w_748\",0]],\"\\u300a\\u6c49\\u82f1\\u5927\\u8bcd\\u5178\\u300b\",89778],[[[\"Fortunately\",\"w_772\",\"w_772,w_787\",0,\" \"],[\"for\",\"w_773\",\"w_773,w_784\",0,\" \"],[\"me\",\"w_774\",\"w_774,w_785,w_786\",0],[\",\",\"w_775\",\"w_775,w_790\",0,\" \"],[\"my\",\"w_776\",\"w_776,w_791\",0,\" \"],[\"friend\",\"w_777\",\"w_777,w_793\",1,\" \"],[\"saw\",\"w_778\",\"w_778,w_779,w_794,w_795\",0,\" \"],[\"that\",\"w_779\",\"w_778,w_779,w_794,w_795\",0,\" \"],[\"something\",\"w_780\",\"w_780,w_781,w_796\",0,\" \"],[\"was\",\"w_781\",\"w_780,w_781,w_796\",0,\" \"],[\"seriously\",\"w_782\",\"w_782,w_797\",0,\" \"],[\"wrong\",\"w_783\",\"w_783,w_799,w_800\",0]],[[\"\\u5bf9\",\"w_784\",\"w_773,w_784\",0],[\"\\u6211\",\"w_785\",\"w_774,w_785,w_786\",0],[\"\\u6765\\u8bf4\",\"w_786\",\"w_774,w_785,w_786\",0],[\"\\u5e78\\u8fd0\",\"w_787\",\"w_772,w_787\",0],[\"\\u7684\",\"w_788\",\"\",0],[\"\\u662f\",\"w_789\",\"\",0],[\"\\uff0c\",\"w_790\",\"w_775,w_790\",0],[\"\\u6211\",\"w_791\",\"w_776,w_791\",0],[\"\\u7684\",\"w_792\",\"\",0],[\"\\u670b\\u53cb\",\"w_793\",\"w_777,w_793\",0],[\"\\u53d1\\u73b0\",\"w_794\",\"w_778,w_779,w_794,w_795\",0],[\"\\u4e86\",\"w_795\",\"w_778,w_779,w_794,w_795\",0],[\"\\u975e\\u5e38\",\"w_796\",\"w_780,w_781,w_796\",0],[\"\\u4e25\\u91cd\",\"w_797\",\"w_782,w_797\",0],[\"\\u7684\",\"w_798\",\"\",0],[\"\\u9519\\u8bef\",\"w_799\",\"w_783,w_799,w_800\",0],[\"\\u3002\",\"w_800\",\"w_783,w_799,w_800\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",24526],[[[\"My\",\"w_830\",\"w_830,w_835\",0,\" \"],[\"friend\",\"w_831\",\"w_831,w_836\",1,\" \"],[\"happened\",\"w_832\",\"w_832,w_833,w_837\",0,\" \"],[\"along\",\"w_833\",\"w_832,w_833,w_837\",0],[\".\",\"w_834\",\"w_834,w_840\",0]],[[\"\\u6211\",\"w_835\",\"w_830,w_835\",0],[\"\\u670b\\u53cb\",\"w_836\",\"w_831,w_836\",0],[\"\\u6070\\u597d\",\"w_837\",\"w_832,w_833,w_837\",0],[\"\\u6765\",\"w_838\",\"\",0],[\"\\u4e86\",\"w_839\",\"\",0],[\"\\u3002\",\"w_840\",\"w_834,w_840\",0]],\"\\u300a\\u6c49\\u82f1\\u5927\\u8bcd\\u5178\\u300b\",80502],[[[\"I\",\"w_852\",\"w_852,w_866\",0,\" \"],[\"posted\",\"w_853\",\"w_853,w_869\",0,\" \"],[\"a\",\"w_854\",\"w_854,w_870\",0,\" \"],[\"letter\",\"w_855\",\"w_855,w_871,w_872\",0,\" \"],[\"to\",\"w_856\",\"w_856,w_867\",0,\" \"],[\"Stanley\",\"w_857\",\"w_857,w_868\",0,\" \"],[\"saying\",\"w_858\",\"w_858,w_874\",0,\" \"],[\"I\",\"w_859\",\"w_859,w_875\",0,\" \"],[\"was\",\"w_860\",\"w_860,w_876\",0,\" \"],[\"an\",\"w_861\",\"w_861,w_878,w_879\",0,\" \"],[\"old\",\"w_862\",\"w_862,w_880\",0,\" \"],[\"Army\",\"w_863\",\"w_863,w_864,w_881\",0,\" \"],[\"friend\",\"w_864\",\"w_863,w_864,w_881\",1],[\".\",\"w_865\",\"w_865,w_882\",0]],[[\"\\u6211\",\"w_866\",\"w_852,w_866\",0],[\"\\u7ed9\",\"w_867\",\"w_856,w_867\",0],[\"\\u65af\\u5766\\u5229\",\"w_868\",\"w_857,w_868\",0],[\"\\u5bc4\",\"w_869\",\"w_853,w_869\",0],[\"\\u4e86\",\"w_870\",\"w_854,w_870\",0],[\"\\u5c01\",\"w_871\",\"w_855,w_871,w_872\",0],[\"\\u4fe1\",\"w_872\",\"w_855,w_871,w_872\",0],[\"\\uff0c\",\"w_873\",\"\",0],[\"\\u8bf4\",\"w_874\",\"w_858,w_874\",0],[\"\\u6211\",\"w_875\",\"w_859,w_875\",0],[\"\\u662f\",\"w_876\",\"w_860,w_876\",0],[\"\\u4ed6\\u7684\",\"w_877\",\"\",0],[\"\\u4e00\",\"w_878\",\"w_861,w_878,w_879\",0],[\"\\u4e2a\",\"w_879\",\"w_861,w_878,w_879\",0],[\"\\u8001\",\"w_880\",\"w_862,w_880\",0],[\"\\u6218\\u53cb\",\"w_881\",\"w_863,w_864,w_881\",0],[\"\\u3002\",\"w_882\",\"w_865,w_882\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",46736],[[[\"I\",\"w_914\",\"w_914,w_928\",0,\" \"],[\"met\",\"w_915\",\"w_915,w_929,w_930\",0,\" \"],[\"an\",\"w_916\",\"w_916\",0,\" \"],[\"old\",\"w_917\",\"w_917,w_918,w_934\",0,\" \"],[\"friend\",\"w_918\",\"w_917,w_918,w_934\",1,\" \"],[\"from\",\"w_919\",\"w_919,w_933\",0,\" \"],[\"whom\",\"w_920\",\"w_920,w_921,w_929\",0,\" \"],[\"I\",\"w_921\",\"w_920,w_921,w_929\",0,\" \"],[\"had\",\"w_922\",\"w_922,w_930\",0,\" \"],[\"parted\",\"w_923\",\"w_923,w_931\",0,\" \"],[\"for\",\"w_924\",\"w_924,w_925,w_926,w_932\",0,\" \"],[\"many\",\"w_925\",\"w_924,w_925,w_926,w_932\",0,\" \"],[\"years\",\"w_926\",\"w_924,w_925,w_926,w_932\",0],[\".\",\"w_927\",\"w_927,w_935\",0]],[[\"\\u6211\",\"w_928\",\"w_914,w_928\",0],[\"\\u89c1\\u5230\",\"w_929\",\"w_920,w_921,w_929\",0],[\"\\u4e86\",\"w_930\",\"w_922,w_930\",0],[\"\\u5206\\u79bb\",\"w_931\",\"w_923,w_931\",0],[\"\\u591a\\u5e74\",\"w_932\",\"w_924,w_925,w_926,w_932\",0],[\"\\u7684\",\"w_933\",\"w_919,w_933\",0],[\"\\u670b\\u53cb\",\"w_934\",\"w_917,w_918,w_934\",0],[\"\\u3002\",\"w_935\",\"w_927,w_935\",0]],\"\\u300a\\u6c49\\u82f1\\u5927\\u8bcd\\u5178\\u300b\",75259],[[[\"My\",\"w_958\",\"w_958,w_967\",0,\" \"],[\"friend\",\"w_959\",\"w_959,w_968\",1],[\"'s\",\"w_960\",\"w_960,w_969\",0,\" \"],[\"reply\",\"w_961\",\"w_961,w_970\",0,\" \"],[\"was\",\"w_962\",\"w_962,w_971\",0,\" \"],[\"courteous\",\"w_963\",\"w_963,w_972\",0,\" \"],[\"but\",\"w_964\",\"w_964,w_974\",0,\" \"],[\"firm\",\"w_965\",\"w_965,w_976\",0],[\".\",\"w_966\",\"w_966,w_977\",0]],[[\"\\u6211\",\"w_967\",\"w_958,w_967\",0],[\"\\u670b\\u53cb\",\"w_968\",\"w_959,w_968\",0],[\"\\u7684\",\"w_969\",\"w_960,w_969\",0],[\"\\u56de\\u7b54\",\"w_970\",\"w_961,w_970\",0],[\"\\u5f88\",\"w_971\",\"w_962,w_971\",0],[\"\\u5ba2\\u6c14\",\"w_972\",\"w_963,w_972\",0],[\"\\uff0c\",\"w_973\",\"\",0],[\"\\u4f46\",\"w_974\",\"w_964,w_974\",0],[\"\\u5f88\",\"w_975\",\"\",0],[\"\\u575a\\u51b3\",\"w_976\",\"w_965,w_976\",0],[\"\\u3002\",\"w_977\",\"w_966,w_977\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",13708],[[[\"I\",\"w_998\",\"w_998,w_1008\",0,\" \"],[\"spent\",\"w_999\",\"w_999,w_1015,w_1016\",0,\" \"],[\"the\",\"w_1000\",\"w_1000,w_1017\",0,\" \"],[\"evening\",\"w_1001\",\"w_1001,w_1018\",0,\" \"],[\"with\",\"w_1002\",\"w_1002,w_1009\",0,\" \"],[\"an\",\"w_1003\",\"w_1003,w_1010,w_1011\",0,\" \"],[\"old\",\"w_1004\",\"w_1004,w_1012\",0,\" \"],[\"school\",\"w_1005\",\"w_1005,w_1006,w_1013,w_1014\",0,\" \"],[\"friend\",\"w_1006\",\"w_1005,w_1006,w_1013,w_1014\",1],[\".\",\"w_1007\",\"w_1007,w_1019\",0]],[[\"\\u6211\",\"w_1008\",\"w_998,w_1008\",0],[\"\\u8ddf\",\"w_1009\",\"w_1002,w_1009\",0],[\"\\u4e00\",\"w_1010\",\"w_1003,w_1010,w_1011\",0],[\"\\u4e2a\",\"w_1011\",\"w_1003,w_1010,w_1011\",0],[\"\\u8001\",\"w_1012\",\"w_1004,w_1012\",0],[\"\\u540c\\u5b66\",\"w_1013\",\"w_1005,w_1006,w_1013,w_1014\",0],[\"\\u4e00\\u8d77\",\"w_1014\",\"w_1005,w_1006,w_1013,w_1014\",0],[\"\\u5ea6\\u8fc7\",\"w_1015\",\"w_999,w_1015,w_1016\",0],[\"\\u4e86\",\"w_1016\",\"w_999,w_1015,w_1016\",0],[\"\\u90a3\\u4e2a\",\"w_1017\",\"w_1000,w_1017\",0],[\"\\u591c\\u665a\",\"w_1018\",\"w_1001,w_1018\",0],[\"\\u3002\",\"w_1019\",\"w_1007,w_1019\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",53993],[[[\"You\",\"w_1042\",\"w_1042,w_1050\",0,\" \"],[\"are\",\"w_1043\",\"w_1043,w_1051\",0,\" \"],[\"her\",\"w_1044\",\"w_1044,w_1052\",0,\" \"],[\"closest\",\"w_1045\",\"w_1045,w_1053,w_1054\",0,\" \"],[\"friend\",\"w_1046\",\"w_1046,w_1056\",1,\" \"],[\"and\",\"w_1047\",\"w_1047,w_1057\",0,\" \"],[\"confidante\",\"w_1048\",\"w_1048,w_1058\",0],[\".\",\"w_1049\",\"w_1049,w_1059\",0]],[[\"\\u4f60\",\"w_1050\",\"w_1042,w_1050\",0],[\"\\u662f\",\"w_1051\",\"w_1043,w_1051\",0],[\"\\u5979\",\"w_1052\",\"w_1044,w_1052\",0],[\"\\u6700\",\"w_1053\",\"w_1045,w_1053,w_1054\",0],[\"\\u4eb2\\u5bc6\",\"w_1054\",\"w_1045,w_1053,w_1054\",0],[\"\\u7684\",\"w_1055\",\"\",0],[\"\\u670b\\u53cb\",\"w_1056\",\"w_1046,w_1056\",0],[\"\\u548c\",\"w_1057\",\"w_1047,w_1057\",0],[\"\\u77e5\\u5df1\",\"w_1058\",\"w_1048,w_1058\",0],[\"\\u3002\",\"w_1059\",\"w_1049,w_1059\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",12340],[[[\"He\",\"w_1078\",\"w_1078,w_1092\",0,\" \"],[\"took\",\"w_1079\",\"w_1079,w_1094\",0,\" \"],[\"me\",\"w_1080\",\"w_1080,w_1100\",0,\" \"],[\"and\",\"w_1081\",\"w_1081,w_1101\",0,\" \"],[\"my\",\"w_1082\",\"w_1082,w_1102\",0,\" \"],[\"friend\",\"w_1083\",\"w_1083,w_1104\",1,\" \"],[\"Cynthia\",\"w_1084\",\"w_1084,w_1105\",0,\" \"],[\"to\",\"w_1085\",\"w_1085,w_1106\",0,\" \"],[\"the\",\"w_1086\",\"w_1086\",0,\" \"],[\"movies\",\"w_1087\",\"w_1087,w_1107,w_1108,w_1109\",0,\" \"],[\"in\",\"w_1088\",\"w_1088,w_1099\",0,\" \"],[\"an\",\"w_1089\",\"w_1089,w_1090,w_1095,w_1096\",0,\" \"],[\"open-topped\",\"w_1090\",\"w_1089,w_1090,w_1095,w_1096\",0,\" \"],[\"car\",\"w_1091\",\"w_1091,w_1097\",0]],[[\"\\u4ed6\",\"w_1092\",\"w_1078,w_1092\",0],[\"\\u5f00\",\"w_1093\",\"\",0],[\"\\u4e86\",\"w_1094\",\"w_1079,w_1094\",0],[\"\\u8f86\",\"w_1095\",\"w_1089,w_1090,w_1095,w_1096\",0],[\"\\u655e\\u7bf7\",\"w_1096\",\"w_1089,w_1090,w_1095,w_1096\",0],[\"\\u8f66\",\"w_1097\",\"w_1091,w_1097\",0],[\"\\uff0c\",\"w_1098\",\"\",0],[\"\\u8f7d\",\"w_1099\",\"w_1088,w_1099\",0],[\"\\u6211\",\"w_1100\",\"w_1080,w_1100\",0],[\"\\u548c\",\"w_1101\",\"w_1081,w_1101\",0],[\"\\u6211\",\"w_1102\",\"w_1082,w_1102\",0],[\"\\u7684\",\"w_1103\",\"\",0],[\"\\u670b\\u53cb\",\"w_1104\",\"w_1083,w_1104\",0],[\"\\u8f9b\\u897f\\u5a05\",\"w_1105\",\"w_1084,w_1105\",0],[\"\\u53bb\",\"w_1106\",\"w_1085,w_1106\",0],[\"\\u770b\",\"w_1107\",\"w_1087,w_1107,w_1108,w_1109\",0],[\"\\u7535\\u5f71\",\"w_1108\",\"w_1087,w_1107,w_1108,w_1109\",0],[\"\\u3002\",\"w_1109\",\"w_1087,w_1107,w_1108,w_1109\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",42543],[[[\"They\",\"w_1142\",\"w_1142,w_1151\",0,\" \"],[\"no\",\"w_1143\",\"w_1143,w_1144,w_1152,w_1153\",0,\" \"],[\"longer\",\"w_1144\",\"w_1143,w_1144,w_1152,w_1153\",0,\" \"],[\"had\",\"w_1145\",\"w_1145,w_1155\",0,\" \"],[\"him\",\"w_1146\",\"w_1146,w_1156\",0,\" \"],[\"as\",\"w_1147\",\"w_1147,w_1157\",0,\" \"],[\"a\",\"w_1148\",\"w_1148\",0,\" \"],[\"friend\",\"w_1149\",\"w_1149,w_1158\",1],[\".\",\"w_1150\",\"w_1150,w_1160\",0]],[[\"\\u4ed6\\u4eec\",\"w_1151\",\"w_1142,w_1151\",0],[\"\\u518d\",\"w_1152\",\"w_1143,w_1144,w_1152,w_1153\",0],[\"\\u4e5f\",\"w_1153\",\"w_1143,w_1144,w_1152,w_1153\",0],[\"\\u4e0d\",\"w_1154\",\"\",0],[\"\\u628a\",\"w_1155\",\"w_1145,w_1155\",0],[\"\\u4ed6\",\"w_1156\",\"w_1146,w_1156\",0],[\"\\u770b\\u6210\",\"w_1157\",\"w_1147,w_1157\",0],[\"\\u670b\\u53cb\",\"w_1158\",\"w_1149,w_1158\",0],[\"\\u4e86\",\"w_1159\",\"\",0],[\"\\u3002\",\"w_1160\",\"w_1150,w_1160\",0]],\"\\u300a\\u6c49\\u82f1\\u5927\\u8bcd\\u5178\\u300b\",85674],[[[\"Have\",\"w_1180\",\"w_1180,w_1181,w_1193\",0,\" \"],[\"I\",\"w_1181\",\"w_1180,w_1181,w_1193\",0,\" \"],[\"been\",\"w_1182\",\"w_1182,w_1194\",0,\" \"],[\"neglectful\",\"w_1183\",\"w_1183,w_1195\",0,\" \"],[\"of\",\"w_1184\",\"w_1184,w_1196\",0,\" \"],[\"my\",\"w_1185\",\"w_1185,w_1193\",0,\" \"],[\"friend\",\"w_1186\",\"w_1186,w_1197\",1],[\",\",\"w_1187\",\"w_1187,w_1200\",0,\" \"],[\"taking\",\"w_1188\",\"w_1188,w_1203\",0,\" \"],[\"him\",\"w_1189\",\"w_1189,w_1204,w_1205\",0,\" \"],[\"for\",\"w_1190\",\"w_1190\",0,\" \"],[\"granted\",\"w_1191\",\"w_1191,w_1206\",0],[\"?\",\"w_1192\",\"w_1192,w_1208\",0]],[[\"\\u6211\",\"w_1193\",\"w_1185,w_1193\",0],[\"\\u662f\",\"w_1194\",\"w_1182,w_1194\",0],[\"\\u4e0d\\u662f\",\"w_1195\",\"w_1183,w_1195\",0],[\"\\u5bf9\",\"w_1196\",\"w_1184,w_1196\",0],[\"\\u670b\\u53cb\",\"w_1197\",\"w_1186,w_1197\",0],[\"\\u4e0d\\u591f\",\"w_1198\",\"\",0],[\"\\u5c3d\\u5fc3\",\"w_1199\",\"\",0],[\"\\uff0c\",\"w_1200\",\"w_1187,w_1200\",0],[\"\\u592a\",\"w_1201\",\"\",0],[\"\\u4e0d\",\"w_1202\",\"\",0],[\"\\u628a\",\"w_1203\",\"w_1188,w_1203\",0],[\"\\u4ed6\",\"w_1204\",\"w_1189,w_1204,w_1205\",0],[\"\\u5f53\",\"w_1205\",\"w_1189,w_1204,w_1205\",0],[\"\\u56de\\u4e8b\",\"w_1206\",\"w_1191,w_1206\",0],[\"\\u4e86\",\"w_1207\",\"\",0],[\"\\uff1f\",\"w_1208\",\"w_1192,w_1208\",0]],\"\\u300a\\u67ef\\u6797\\u65af\\u9ad8\\u9636\\u82f1\\u6c49\\u53cc\\u89e3\\u5b66\\u4e60\\u8bcd\\u5178\\u300b\",40301]]",
+        "tag": [
+            "朋友",
+            "友人"
+        ],
+        "single": "[[[[\"\\\"\",\"w_0\",0],[\"Dogs\",\"w_1\",0,\" \"],[\"are\",\"w_2\",0,\" \"],[\"man\",\"w_3\",0],[\"'s\",\"w_4\",0,\" \"],[\"best\",\"w_5\",0,\" \"],[\"friend\",\"w_6\",0],[\",\",\"w_7\",0],[\"\\\"\",\"w_8\",0,\" \"],[\"Porter\",\"w_9\",0,\" \"],[\"told\",\"w_10\",0,\" \"],[\"the\",\"w_11\",0,\" \"],[\"Herald\",\"w_12\",0,\" \"],[\"Sun\",\"w_13\",0],[\".\",\"w_14\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/world\\/2011-06\\/02\\/content_12625849.htm\",1876],[[[\"Until\",\"w_30\",0,\" \"],[\"her\",\"w_31\",0,\" \"],[\"friend\",\"w_32\",0,\" \"],[\"surfaced\",\"w_33\",0,\" \"],[\"with\",\"w_34\",0,\" \"],[\"two\",\"w_35\",0,\" \"],[\"bottles\",\"w_36\",0,\" \"],[\"of\",\"w_37\",0,\" \"],[\"drink\",\"w_38\",0],[\",\",\"w_39\",0,\" \"],[\"and\",\"w_40\",0,\" \"],[\"compounded\",\"w_41\",0,\" \"],[\"the\",\"w_42\",0,\" \"],[\"problem\",\"w_43\",0,\" \"],[\"by\",\"w_44\",0,\" \"],[\"paying\",\"w_45\",0,\" \"],[\"with\",\"w_46\",0,\" \"],[\"a\",\"w_47\",0,\" \"],[\"credit\",\"w_48\",0,\" \"],[\"card\",\"w_49\",0],[\".\",\"w_50\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/life\\/2010-01\\/21\\/content_9354439.htm\",783807],[[[\"A\",\"w_72\",0,\" \"],[\"friend\",\"w_73\",0,\" \"],[\"of\",\"w_74\",0,\" \"],[\"mine\",\"w_75\",0,\" \"],[\"joked\",\"w_76\",0,\" \"],[\"that\",\"w_77\",0,\" \"],[\"I\",\"w_78\",0,\" \"],[\"am\",\"w_79\",0,\" \"],[\"now\",\"w_80\",0,\" \"],[\"\\\"\",\"w_81\",0],[\"a\",\"w_82\",0,\" \"],[\"dupe\",\"w_83\",0,\" \"],[\"of\",\"w_84\",0,\" \"],[\"the\",\"w_85\",0,\" \"],[\"worldwide\",\"w_86\",0,\" \"],[\"conspiracy\",\"w_87\",0,\" \"],[\"of\",\"w_88\",0,\" \"],[\"the\",\"w_89\",0,\" \"],[\"New\",\"w_90\",0,\" \"],[\"World\",\"w_91\",0,\" \"],[\"Order\",\"w_92\",0],[\"\\\"\",\"w_93\",0],[\".\",\"w_94\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2007-01\\/19\\/content_787163.htm\",783655],[[[\"A\",\"w_118\",0,\" \"],[\"friend\",\"w_119\",0,\" \"],[\"of\",\"w_120\",0,\" \"],[\"the\",\"w_121\",0,\" \"],[\"actress\",\"w_122\",0,\" \"],[\"also\",\"w_123\",0,\" \"],[\"revealed\",\"w_124\",0,\" \"],[\"that\",\"w_125\",0,\" \"],[\"Lohan\",\"w_126\",0,\" \"],[\"is\",\"w_127\",0,\" \"],[\"having\",\"w_128\",0,\" \"],[\"a\",\"w_129\",0,\" \"],[\"difficult\",\"w_130\",0,\" \"],[\"time\",\"w_131\",0,\" \"],[\"settling\",\"w_132\",0,\" \"],[\"in\",\"w_133\",0,\" \"],[\"at\",\"w_134\",0,\" \"],[\"the\",\"w_135\",0,\" \"],[\"Promises\",\"w_136\",0,\" \"],[\"Clinic\",\"w_137\",0,\" \"],[\"in\",\"w_138\",0,\" \"],[\"Malibu\",\"w_139\",0],[\".\",\"w_140\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/showbiz\\/2007-06\\/04\\/content_886759.htm\",782433],[[[\"He\",\"w_164\",0,\" \"],[\"told\",\"w_165\",0,\" \"],[\"China\",\"w_166\",0,\" \"],[\"Daily\",\"w_167\",0,\" \"],[\"that\",\"w_168\",0,\" \"],[\"he\",\"w_169\",0,\" \"],[\"too\",\"w_170\",0,\" \"],[\"was\",\"w_171\",0,\" \"],[\"a\",\"w_172\",0,\" \"],[\"fan\",\"w_173\",0,\" \"],[\"of\",\"w_174\",0,\" \"],[\"cartoons\",\"w_175\",0,\" \"],[\"and\",\"w_176\",0,\" \"],[\"wanted\",\"w_177\",0,\" \"],[\"to\",\"w_178\",0,\" \"],[\"help\",\"w_179\",0,\" \"],[\"his\",\"w_180\",0,\" \"],[\"friend\",\"w_181\",0,\" \"],[\"out\",\"w_182\",0,\" \"],[\"of\",\"w_183\",0,\" \"],[\"empathy\",\"w_184\",0],[\".\",\"w_185\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2011-12\\/28\\/content_14338589.htm\",781556],[[[\"A\",\"w_208\",0,\" \"],[\"friend\",\"w_209\",0,\" \"],[\"of\",\"w_210\",0,\" \"],[\"mine\",\"w_211\",0,\" \"],[\"winced\",\"w_212\",0,\" \"],[\"over\",\"w_213\",0,\" \"],[\"the\",\"w_214\",0,\" \"],[\"weekend\",\"w_215\",0,\" \"],[\"as\",\"w_216\",0,\" \"],[\"I\",\"w_217\",0,\" \"],[\"swallowed\",\"w_218\",0,\" \"],[\"a\",\"w_219\",0,\" \"],[\"glass\",\"w_220\",0,\" \"],[\"of\",\"w_221\",0,\" \"],[\"freshly\",\"w_222\",0,\" \"],[\"squeezed\",\"w_223\",0,\" \"],[\"orange\",\"w_224\",0,\" \"],[\"juice\",\"w_225\",0],[\".\",\"w_226\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2007-08\\/17\\/content_6030603.htm\",779937],[[[\"She\",\"w_246\",0,\" \"],[\"was\",\"w_247\",0,\" \"],[\"freaking\",\"w_248\",0,\" \"],[\"out\",\"w_249\",0,\" \"],[\"because\",\"w_250\",0,\" \"],[\"she\",\"w_251\",0,\" \"],[\"was\",\"w_252\",0,\" \"],[\"supposed\",\"w_253\",0,\" \"],[\"to\",\"w_254\",0,\" \"],[\"be\",\"w_255\",0,\" \"],[\"having\",\"w_256\",0,\" \"],[\"sex\",\"w_257\",0,\" \"],[\"with\",\"w_258\",0,\" \"],[\"her\",\"w_259\",0,\" \"],[\"best\",\"w_260\",0,\" \"],[\"friend\",\"w_261\",0],[\"-\",\"w_262\",0],[\"me\",\"w_263\",0],[\"-\",\"w_264\",0],[\"while\",\"w_265\",0,\" \"],[\"her\",\"w_266\",0,\" \"],[\"husband\",\"w_267\",0,\" \"],[\"directed\",\"w_268\",0],[\".\",\"w_269\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/entertainment\\/2010-08\\/10\\/content_11128824.htm\",779607],[[[\"Those\",\"w_294\",0,\" \"],[\"first\",\"w_295\",0,\" \"],[\"two\",\"w_296\",0,\" \"],[\"lines\",\"w_297\",0,\" \"],[\"were\",\"w_298\",0,\" \"],[\"written\",\"w_299\",0,\" \"],[\"when\",\"w_300\",0,\" \"],[\"he\",\"w_301\",0,\" \"],[\"was\",\"w_302\",0,\" \"],[\"thinking\",\"w_303\",0,\" \"],[\"about\",\"w_304\",0,\" \"],[\"a\",\"w_305\",0,\" \"],[\"friend\",\"w_306\",0],[\"'s\",\"w_307\",0,\" \"],[\"failed\",\"w_308\",0,\" \"],[\"film\",\"w_309\",0,\" \"],[\"investment\",\"w_310\",0,\" \"],[\"on\",\"w_311\",0,\" \"],[\"a\",\"w_312\",0,\" \"],[\"plane\",\"w_313\",0],[\".\",\"w_314\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/usa\\/entertainment\\/2012-05\\/15\\/content_15298069.htm\",778456],[[[\"So\",\"w_336\",0,\" \"],[\"Lyndon\",\"w_337\",0,\" \"],[\"Johnson\",\"w_338\",0,\" \"],[\"reportedly\",\"w_339\",0,\" \"],[\"told\",\"w_340\",0,\" \"],[\"a\",\"w_341\",0,\" \"],[\"friend\",\"w_342\",0,\" \"],[\"during\",\"w_343\",0,\" \"],[\"the\",\"w_344\",0,\" \"],[\"Vietnam\",\"w_345\",0,\" \"],[\"quagmire\",\"w_346\",0],[\",\",\"w_347\",0,\" \"],[\"which\",\"w_348\",0,\" \"],[\"forced\",\"w_349\",0,\" \"],[\"him\",\"w_350\",0,\" \"],[\"to\",\"w_351\",0,\" \"],[\"decline\",\"w_352\",0,\" \"],[\"running\",\"w_353\",0,\" \"],[\"for\",\"w_354\",0,\" \"],[\"a\",\"w_355\",0,\" \"],[\"second\",\"w_356\",0,\" \"],[\"term\",\"w_357\",0,\" \"],[\"as\",\"w_358\",0,\" \"],[\"president\",\"w_359\",0],[\".\",\"w_360\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/en\\/home\\/2003-11\\/06\\/content_279129.htm\",777708],[[[\"In\",\"w_386\",0,\" \"],[\"2003\",\"w_387\",0],[\",\",\"w_388\",0,\" \"],[\"a\",\"w_389\",0,\" \"],[\"friend\",\"w_390\",0,\" \"],[\"of\",\"w_391\",0,\" \"],[\"hers\",\"w_392\",0,\" \"],[\"brought\",\"w_393\",0,\" \"],[\"for\",\"w_394\",0,\" \"],[\"her\",\"w_395\",0,\" \"],[\"a\",\"w_396\",0,\" \"],[\"set\",\"w_397\",0,\" \"],[\"of\",\"w_398\",0,\" \"],[\"tableware\",\"w_399\",0,\" \"],[\"from\",\"w_400\",0,\" \"],[\"London\",\"w_401\",0],[\".\",\"w_402\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2008-01\\/11\\/content_6385820.htm\",774598],[[[\"An\",\"w_420\",0,\" \"],[\"auctioneer\",\"w_421\",0,\" \"],[\"friend\",\"w_422\",0,\" \"],[\"of\",\"w_423\",0,\" \"],[\"Simpson\",\"w_424\",0],[\"'s\",\"w_425\",0,\" \"],[\"who\",\"w_426\",0,\" \"],[\"had\",\"w_427\",0,\" \"],[\"been\",\"w_428\",0,\" \"],[\"contacted\",\"w_429\",0,\" \"],[\"about\",\"w_430\",0,\" \"],[\"the\",\"w_431\",0,\" \"],[\"items\",\"w_432\",0,\" \"],[\"became\",\"w_433\",0,\" \"],[\"suspicious\",\"w_434\",0,\" \"],[\"of\",\"w_435\",0,\" \"],[\"their\",\"w_436\",0,\" \"],[\"provenance\",\"w_437\",0],[\".\",\"w_438\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2007-09\\/18\\/content_6113452.htm\",773242],[[[\"One\",\"w_458\",0,\" \"],[\"time\",\"w_459\",0,\" \"],[\"I\",\"w_460\",0,\" \"],[\"was\",\"w_461\",0,\" \"],[\"walking\",\"w_462\",0,\" \"],[\"with\",\"w_463\",0,\" \"],[\"one\",\"w_464\",0,\" \"],[\"such\",\"w_465\",0,\" \"],[\"Chinese\",\"w_466\",0,\" \"],[\"friend\",\"w_467\",0,\" \"],[\"as\",\"w_468\",0,\" \"],[\"he\",\"w_469\",0,\" \"],[\"shooed\",\"w_470\",0,\" \"],[\"a\",\"w_471\",0,\" \"],[\"beggar\",\"w_472\",0,\" \"],[\"away\",\"w_473\",0],[\".\",\"w_474\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2010-06\\/10\\/content_9958710.htm\",771597],[[[\"Grant\",\"w_492\",0,\" \"],[\"said\",\"w_493\",0,\" \"],[\"there\",\"w_494\",0,\" \"],[\"was\",\"w_495\",0,\" \"],[\"no\",\"w_496\",0,\" \"],[\"such\",\"w_497\",0,\" \"],[\"woman\",\"w_498\",0],[\",\",\"w_499\",0,\" \"],[\"but\",\"w_500\",0,\" \"],[\"he\",\"w_501\",0,\" \"],[\"did\",\"w_502\",0,\" \"],[\"receive\",\"w_503\",0,\" \"],[\"voice\",\"w_504\",0,\" \"],[\"messages\",\"w_505\",0,\" \"],[\"from\",\"w_506\",0,\" \"],[\"the\",\"w_507\",0,\" \"],[\"assistant\",\"w_508\",0,\" \"],[\"of\",\"w_509\",0,\" \"],[\"a\",\"w_510\",0,\" \"],[\"movie\",\"w_511\",0,\" \"],[\"producer\",\"w_512\",0,\" \"],[\"friend\",\"w_513\",0],[\".\",\"w_514\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/entertainment\\/2011-11\\/22\\/content_14139994.htm\",770626],[[[\"Because\",\"w_538\",0,\" \"],[\"most\",\"w_539\",0,\" \"],[\"expats\",\"w_540\",0,\" \"],[\"'\",\"w_541\",0],[\"families\",\"w_542\",0,\" \"],[\"are\",\"w_543\",0,\" \"],[\"overseas\",\"w_544\",0],[\",\",\"w_545\",0,\" \"],[\"foreigners\",\"w_546\",0,\" \"],[\"in\",\"w_547\",0,\" \"],[\"China\",\"w_548\",0,\" \"],[\"often\",\"w_549\",0,\" \"],[\"create\",\"w_550\",0,\" \"],[\"a\",\"w_551\",0,\" \"],[\"\\\"\",\"w_552\",0],[\"family\",\"w_553\",0],[\"\\\"\",\"w_554\",0,\" \"],[\"from\",\"w_555\",0,\" \"],[\"their\",\"w_556\",0,\" \"],[\"friend\",\"w_557\",0,\" \"],[\"bases\",\"w_558\",0,\" \"],[\"to\",\"w_559\",0,\" \"],[\"celebrate\",\"w_560\",0,\" \"],[\"Thanksgiving\",\"w_561\",0],[\".\",\"w_562\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2007-11\\/22\\/content_6270606.htm\",768213],[[[\"The\",\"w_588\",0,\" \"],[\"surgeon\",\"w_589\",0,\" \"],[\"described\",\"w_590\",0,\" \"],[\"his\",\"w_591\",0,\" \"],[\"powerful\",\"w_592\",0,\" \"],[\"homesickness\",\"w_593\",0,\" \"],[\"in\",\"w_594\",0,\" \"],[\"a\",\"w_595\",0,\" \"],[\"letter\",\"w_596\",0,\" \"],[\"he\",\"w_597\",0,\" \"],[\"penned\",\"w_598\",0,\" \"],[\"to\",\"w_599\",0,\" \"],[\"a\",\"w_600\",0,\" \"],[\"friend\",\"w_601\",0],[\".\",\"w_602\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/life\\/2009-09\\/29\\/content_8749037.htm\",767731],[[[\"After\",\"w_618\",0,\" \"],[\"the\",\"w_619\",0,\" \"],[\"strain\",\"w_620\",0,\" \"],[\"of\",\"w_621\",0,\" \"],[\"working\",\"w_622\",0,\" \"],[\"with\",\"w_623\",0,\" \"],[\"others\",\"w_624\",0],[\",\",\"w_625\",0,\" \"],[\"you\",\"w_626\",0,\" \"],[\"might\",\"w_627\",0,\" \"],[\"want\",\"w_628\",0,\" \"],[\"to\",\"w_629\",0,\" \"],[\"unwind\",\"w_630\",0,\" \"],[\"by\",\"w_631\",0,\" \"],[\"visiting\",\"w_632\",0,\" \"],[\"or\",\"w_633\",0,\" \"],[\"calling\",\"w_634\",0,\" \"],[\"a\",\"w_635\",0,\" \"],[\"close\",\"w_636\",0,\" \"],[\"friend\",\"w_637\",0],[\".\",\"w_638\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/life\\/2009-11\\/26\\/content_9054511.htm\",767637],[[[\"Guan\",\"w_660\",0,\" \"],[\"already\",\"w_661\",0,\" \"],[\"had\",\"w_662\",0,\" \"],[\"the\",\"w_663\",0,\" \"],[\"idea\",\"w_664\",0,\" \"],[\"of\",\"w_665\",0,\" \"],[\"creating\",\"w_666\",0,\" \"],[\"such\",\"w_667\",0,\" \"],[\"a\",\"w_668\",0,\" \"],[\"series\",\"w_669\",0,\" \"],[\"when\",\"w_670\",0,\" \"],[\"a\",\"w_671\",0,\" \"],[\"longtime\",\"w_672\",0,\" \"],[\"friend\",\"w_673\",0],[\"'s\",\"w_674\",0,\" \"],[\"wife\",\"w_675\",0,\" \"],[\"was\",\"w_676\",0,\" \"],[\"diagnosed\",\"w_677\",0,\" \"],[\"with\",\"w_678\",0,\" \"],[\"breast\",\"w_679\",0,\" \"],[\"cancer\",\"w_680\",0],[\".\",\"w_681\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2008-02\\/26\\/content_6483910.htm\",767584],[[[\"A\",\"w_704\",0,\" \"],[\"female\",\"w_705\",0,\" \"],[\"friend\",\"w_706\",0,\" \"],[\"suggested\",\"w_707\",0,\" \"],[\"he\",\"w_708\",0,\" \"],[\"try\",\"w_709\",0,\" \"],[\"eye\",\"w_710\",0,\" \"],[\"cream\",\"w_711\",0],[\",\",\"w_712\",0,\" \"],[\"which\",\"w_713\",0,\" \"],[\"dissipated\",\"w_714\",0,\" \"],[\"the\",\"w_715\",0,\" \"],[\"rings\",\"w_716\",0,\" \"],[\"around\",\"w_717\",0,\" \"],[\"his\",\"w_718\",0,\" \"],[\"eyes\",\"w_719\",0],[\".\",\"w_720\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/entertainment\\/2011-11\\/17\\/content_14111068.htm\",767472],[[[\"People\",\"w_738\",0,\" \"],[\"saw\",\"w_739\",0,\" \"],[\"Cage\",\"w_740\",0],[\"'s\",\"w_741\",0,\" \"],[\"friend\",\"w_742\",0,\" \"],[\"David\",\"w_743\",0,\" \"],[\"Tudor\",\"w_744\",0,\" \"],[\"sit\",\"w_745\",0,\" \"],[\"at\",\"w_746\",0,\" \"],[\"the\",\"w_747\",0,\" \"],[\"piano\",\"w_748\",0,\" \"],[\"and\",\"w_749\",0,\" \"],[\"mark\",\"w_750\",0,\" \"],[\"the\",\"w_751\",0,\" \"],[\"beginning\",\"w_752\",0,\" \"],[\"of\",\"w_753\",0,\" \"],[\"the\",\"w_754\",0,\" \"],[\"piece\",\"w_755\",0,\" \"],[\"by\",\"w_756\",0,\" \"],[\"closing\",\"w_757\",0,\" \"],[\"the\",\"w_758\",0,\" \"],[\"keyboard\",\"w_759\",0,\" \"],[\"lid\",\"w_760\",0],[\".\",\"w_761\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/china\\/2012-10\\/18\\/content_15829033.htm\",767140],[[[\"It\",\"w_786\",0],[\"'s\",\"w_787\",0,\" \"],[\"been\",\"w_788\",0,\" \"],[\"a\",\"w_789\",0,\" \"],[\"wonderful\",\"w_790\",0,\" \"],[\"thing\",\"w_791\",0,\" \"],[\"to\",\"w_792\",0,\" \"],[\"be\",\"w_793\",0,\" \"],[\"welcomed\",\"w_794\",0,\" \"],[\"into\",\"w_795\",0,\" \"],[\"their\",\"w_796\",0,\" \"],[\"lives\",\"w_797\",0],[\",\",\"w_798\",0,\" \"],[\"to\",\"w_799\",0,\" \"],[\"be\",\"w_800\",0,\" \"],[\"taken\",\"w_801\",0,\" \"],[\"and\",\"w_802\",0,\" \"],[\"trusted\",\"w_803\",0,\" \"],[\"as\",\"w_804\",0,\" \"],[\"a\",\"w_805\",0,\" \"],[\"friend\",\"w_806\",0],[\".\",\"w_807\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/china\\/2011-06\\/06\\/content_12644942.htm\",766647],[[[\"He\",\"w_830\",0,\" \"],[\"felt\",\"w_831\",0,\" \"],[\"an\",\"w_832\",0,\" \"],[\"obligation\",\"w_833\",0,\" \"],[\"to\",\"w_834\",0,\" \"],[\"help\",\"w_835\",0,\" \"],[\"his\",\"w_836\",0,\" \"],[\"friend\",\"w_837\",0,\" \"],[\"and\",\"w_838\",0,\" \"],[\"his\",\"w_839\",0,\" \"],[\"elderly\",\"w_840\",0,\" \"],[\"parents\",\"w_841\",0,\" \"],[\"so\",\"w_842\",0,\" \"],[\"he\",\"w_843\",0,\" \"],[\"paid\",\"w_844\",0,\" \"],[\"for\",\"w_845\",0,\" \"],[\"Zhang\",\"w_846\",0],[\"'s\",\"w_847\",0,\" \"],[\"medical\",\"w_848\",0,\" \"],[\"treatment\",\"w_849\",0],[\".\",\"w_850\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2008-02\\/21\\/content_6471432.htm\",766440],[[[\"As\",\"w_872\",0,\" \"],[\"for\",\"w_873\",0,\" \"],[\"my\",\"w_874\",0,\" \"],[\"friend\",\"w_875\",0,\" \"],[\"who\",\"w_876\",0,\" \"],[\"espouses\",\"w_877\",0,\" \"],[\"the\",\"w_878\",0,\" \"],[\"gay\",\"w_879\",0,\" \"],[\"hypothesis\",\"w_880\",0,\" \"],[\"for\",\"w_881\",0,\" \"],[\"the\",\"w_882\",0,\" \"],[\"four\",\"w_883\",0,\" \"],[\"novels\",\"w_884\",0],[\",\",\"w_885\",0,\" \"],[\"he\",\"w_886\",0,\" \"],[\"is\",\"w_887\",0,\" \"],[\"a\",\"w_888\",0,\" \"],[\"Don\",\"w_889\",0,\" \"],[\"Juan\",\"w_890\",0,\" \"],[\"in\",\"w_891\",0,\" \"],[\"real\",\"w_892\",0,\" \"],[\"life\",\"w_893\",0],[\".\",\"w_894\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2008-07\\/12\\/content_6839513.htm\",765594],[[[\"My\",\"w_918\",0,\" \"],[\"friend\",\"w_919\",0,\" \"],[\"used\",\"w_920\",0,\" \"],[\"to\",\"w_921\",0,\" \"],[\"tell\",\"w_922\",0,\" \"],[\"me\",\"w_923\",0,\" \"],[\"that\",\"w_924\",0,\" \"],[\"when\",\"w_925\",0,\" \"],[\"she\",\"w_926\",0,\" \"],[\"was\",\"w_927\",0,\" \"],[\"abroad\",\"w_928\",0],[\",\",\"w_929\",0,\" \"],[\"she\",\"w_930\",0,\" \"],[\"couldn\",\"w_931\",0],[\"'t\",\"w_932\",0,\" \"],[\"return\",\"w_933\",0,\" \"],[\"to\",\"w_934\",0,\" \"],[\"China\",\"w_935\",0,\" \"],[\"to\",\"w_936\",0,\" \"],[\"celebrate\",\"w_937\",0,\" \"],[\"the\",\"w_938\",0,\" \"],[\"festival\",\"w_939\",0,\" \"],[\"with\",\"w_940\",0,\" \"],[\"her\",\"w_941\",0,\" \"],[\"family\",\"w_942\",0],[\".\",\"w_943\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/opinion\\/2010-02\\/12\\/content_9467036.htm\",765387],[[[\"Attempt\",\"w_970\",0,\" \"],[\"to\",\"w_971\",0,\" \"],[\"socialize\",\"w_972\",0,\" \"],[\"today\",\"w_973\",0,\" \"],[\"because\",\"w_974\",0,\" \"],[\"it\",\"w_975\",0,\" \"],[\"could\",\"w_976\",0,\" \"],[\"enable\",\"w_977\",0,\" \"],[\"you\",\"w_978\",0,\" \"],[\"to\",\"w_979\",0,\" \"],[\"enhance\",\"w_980\",0,\" \"],[\"your\",\"w_981\",0,\" \"],[\"friendships\",\"w_982\",0,\" \"],[\"or\",\"w_983\",0,\" \"],[\"even\",\"w_984\",0,\" \"],[\"make\",\"w_985\",0,\" \"],[\"a\",\"w_986\",0,\" \"],[\"new\",\"w_987\",0,\" \"],[\"friend\",\"w_988\",0],[\".\",\"w_989\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/life\\/2008-06\\/20\\/content_6793513.htm\",764148],[[[\"Tom\",\"w_1010\",0,\" \"],[\"Cruise\",\"w_1011\",0,\" \"],[\"has\",\"w_1012\",0,\" \"],[\"signed\",\"w_1013\",0,\" \"],[\"up\",\"w_1014\",0,\" \"],[\"to\",\"w_1015\",0,\" \"],[\"make\",\"w_1016\",0,\" \"],[\"a\",\"w_1017\",0,\" \"],[\"cameo\",\"w_1018\",0,\" \"],[\"appearance\",\"w_1019\",0,\" \"],[\"in\",\"w_1020\",0,\" \"],[\"the\",\"w_1021\",0,\" \"],[\"upcoming\",\"w_1022\",0,\" \"],[\"Star\",\"w_1023\",0,\" \"],[\"Trek\",\"w_1024\",0,\" \"],[\"film\",\"w_1025\",0,\" \"],[\"as\",\"w_1026\",0,\" \"],[\"a\",\"w_1027\",0,\" \"],[\"favour\",\"w_1028\",0,\" \"],[\"to\",\"w_1029\",0,\" \"],[\"his\",\"w_1030\",0,\" \"],[\"friend\",\"w_1031\",0,\" \"],[\"JJ\",\"w_1032\",0,\" \"],[\"Abrams\",\"w_1033\",0],[\".\",\"w_1034\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/showbiz\\/2007-08\\/13\\/content_6024854.htm\",762969],[[[\"A\",\"w_1060\",0,\" \"],[\"farmer\",\"w_1061\",0,\" \"],[\"trying\",\"w_1062\",0,\" \"],[\"to\",\"w_1063\",0,\" \"],[\"do\",\"w_1064\",0,\" \"],[\"a\",\"w_1065\",0,\" \"],[\"good\",\"w_1066\",0,\" \"],[\"turn\",\"w_1067\",0,\" \"],[\"for\",\"w_1068\",0,\" \"],[\"a\",\"w_1069\",0,\" \"],[\"disabled\",\"w_1070\",0,\" \"],[\"friend\",\"w_1071\",0,\" \"],[\"has\",\"w_1072\",0,\" \"],[\"been\",\"w_1073\",0,\" \"],[\"charged\",\"w_1074\",0,\" \"],[\"with\",\"w_1075\",0,\" \"],[\"theft\",\"w_1076\",0,\" \"],[\"in\",\"w_1077\",0,\" \"],[\"Tianjin\",\"w_1078\",0,\" \"],[\"municipality\",\"w_1079\",0],[\".\",\"w_1080\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2008-04\\/16\\/content_6619792.htm\",762586],[[[\"Woods\",\"w_1102\",0,\" \"],[\"has\",\"w_1103\",0,\" \"],[\"said\",\"w_1104\",0,\" \"],[\"he\",\"w_1105\",0,\" \"],[\"would\",\"w_1106\",0,\" \"],[\"not\",\"w_1107\",0,\" \"],[\"have\",\"w_1108\",0,\" \"],[\"a\",\"w_1109\",0,\" \"],[\"coach\",\"w_1110\",0],[\",\",\"w_1111\",0,\" \"],[\"instead\",\"w_1112\",0,\" \"],[\"relying\",\"w_1113\",0,\" \"],[\"on\",\"w_1114\",0,\" \"],[\"a\",\"w_1115\",0,\" \"],[\"friend\",\"w_1116\",0,\" \"],[\"at\",\"w_1117\",0,\" \"],[\"home\",\"w_1118\",0,\" \"],[\"in\",\"w_1119\",0,\" \"],[\"Orlando\",\"w_1120\",0,\" \"],[\"to\",\"w_1121\",0,\" \"],[\"videotape\",\"w_1122\",0,\" \"],[\"his\",\"w_1123\",0,\" \"],[\"shots\",\"w_1124\",0],[\".\",\"w_1125\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/cndy\\/2010-08\\/12\\/content_11141671.htm\",760595],[[[\"A\",\"w_1150\",0,\" \"],[\"friend\",\"w_1151\",0,\" \"],[\"revealed\",\"w_1152\",0,\" \"],[\"that\",\"w_1153\",0,\" \"],[\"lonely\",\"w_1154\",0,\" \"],[\"Carey\",\"w_1155\",0,\" \"],[\"is\",\"w_1156\",0,\" \"],[\"planning\",\"w_1157\",0,\" \"],[\"to\",\"w_1158\",0,\" \"],[\"move\",\"w_1159\",0,\" \"],[\"back\",\"w_1160\",0,\" \"],[\"to\",\"w_1161\",0,\" \"],[\"England\",\"w_1162\",0,\" \"],[\"as\",\"w_1163\",0,\" \"],[\"soon\",\"w_1164\",0,\" \"],[\"as\",\"w_1165\",0,\" \"],[\"her\",\"w_1166\",0,\" \"],[\"filming\",\"w_1167\",0,\" \"],[\"commitments\",\"w_1168\",0,\" \"],[\"finish\",\"w_1169\",0],[\".\",\"w_1170\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/entertainment\\/2010-10\\/25\\/content_11453952.htm\",759765],[[[\"Although\",\"w_1192\",0,\" \"],[\"he\",\"w_1193\",0,\" \"],[\"has\",\"w_1194\",0,\" \"],[\"no\",\"w_1195\",0,\" \"],[\"formal\",\"w_1196\",0,\" \"],[\"role\",\"w_1197\",0,\" \"],[\"in\",\"w_1198\",0,\" \"],[\"the\",\"w_1199\",0,\" \"],[\"current\",\"w_1200\",0,\" \"],[\"Indian\",\"w_1201\",0,\" \"],[\"government\",\"w_1202\",0],[\",\",\"w_1203\",0,\" \"],[\"he\",\"w_1204\",0,\" \"],[\"wields\",\"w_1205\",0,\" \"],[\"considerable\",\"w_1206\",0,\" \"],[\"influence\",\"w_1207\",0,\" \"],[\"and\",\"w_1208\",0,\" \"],[\"is\",\"w_1209\",0,\" \"],[\"a\",\"w_1210\",0,\" \"],[\"close\",\"w_1211\",0,\" \"],[\"friend\",\"w_1212\",0,\" \"],[\"of\",\"w_1213\",0,\" \"],[\"Indian\",\"w_1214\",0,\" \"],[\"Prime\",\"w_1215\",0,\" \"],[\"Minister\",\"w_1216\",0,\" \"],[\"Manmohan\",\"w_1217\",0,\" \"],[\"Singh\",\"w_1218\",0],[\".\",\"w_1219\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/china\\/2010-12\\/17\\/content_11715373.htm\",758827],[[[\"The\",\"w_1248\",0,\" \"],[\"girl\",\"w_1249\",0,\" \"],[\"later\",\"w_1250\",0,\" \"],[\"agreed\",\"w_1251\",0,\" \"],[\"to\",\"w_1252\",0,\" \"],[\"go\",\"w_1253\",0,\" \"],[\"back\",\"w_1254\",0,\" \"],[\"to\",\"w_1255\",0,\" \"],[\"Kunming\",\"w_1256\",0,\" \"],[\"with\",\"w_1257\",0,\" \"],[\"her\",\"w_1258\",0,\" \"],[\"father\",\"w_1259\",0,\" \"],[\"and\",\"w_1260\",0,\" \"],[\"never\",\"w_1261\",0,\" \"],[\"met\",\"w_1262\",0,\" \"],[\"the\",\"w_1263\",0,\" \"],[\"friend\",\"w_1264\",0,\" \"],[\"from\",\"w_1265\",0,\" \"],[\"the\",\"w_1266\",0,\" \"],[\"Internet\",\"w_1267\",0],[\".\",\"w_1268\",0]],\"http:\\/\\/www.chinadaily.com.cn\\/english\\/doc\\/2004-05\\/12\\/content_330151.htm\",758513]]"
+    },
+    "logid": 3161259791
+}
